@@ -4,20 +4,17 @@ import re
 class Dialog():
 
     def __init__(self, filename: str):
+        #class level variables
         self.cwd = str
         self.WorkingDir = str
         self.filename = filename
         self.DialogLines = []
         self.cleanListText = []
 
-        self.cwd = self.getWorkingDir()
+        #initialized class methods
         self.WorkingDir = self.changeWorkingDir()
         self.DialogLines = self.readFile()
         self.cleanListText = self.cleanNLandNumbers()
-
-    def getWorkingDir(self):
-        self.cwd = os.getcwd()
-        return self.cwd
 
     def changeWorkingDir(self):
         self.WorkingDir = os.chdir('/Users/tandemseven/Desktop/HLT Program/596A HLT Internship/Thematic-data/docusignresearchtranscriptthemetopicevaluation')
@@ -42,7 +39,6 @@ if __name__ == "__main__":
     d = Dialog('Docusign_p08.txt')
     print(d.filename)
     print(d.WorkingDir)
-    print(d.cwd)
     print(d.DialogLines[:10])
     print(d.cleanListText[:10])
 

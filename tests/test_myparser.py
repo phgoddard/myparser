@@ -1,19 +1,22 @@
+import cmd
+
 from app.myparser import *
 import pytest
 
-
-def test_getWorkingDir():
-    assert getWorkingDir() == '/Users/tandemseven/Desktop/HLT Program/508 Comp Tech for Linguists/Course Project/508_courseproject/tests'
+def test_readFile():
+    d = Dialog("Docusign_p08.txt")
+    assert d.DialogLines[:3] == ['WEBVTT\n', '\n', '1\n']
 
 def test_changeWorkingDir():
-    assert changeWorkingDir() == '/Users/tandemseven/Desktop/HLT Program/596A HLT Internship/Thematic-data/docusignresearchtranscriptthemetopicevaluation'
+    d = Dialog("Docusign_p08.txt")
+    assert d.changeWorkingDir() == '/Users/tandemseven/Desktop/HLT Program/596A HLT Internship/Thematic-data/docusignresearchtranscriptthemetopicevaluation'
 
 def test_getFileName():
-    assert getFileName() == 'Docusign_p08.txt'
-
-def test_readFile():
-    assert (readFile())[:3] == ['WEBVTT\n', '\n', '1\n']
+    d = Dialog("Docusign_p08.txt")
+    assert d.filename == 'Docusign_p08.txt'
+    assert len(d.DialogLines) == 1386
+    assert d.DialogLines[:3] == ['WEBVTT\n', '\n', '1\n']
 
 def test_cleanNLandNumbers():
-    listText = readFile()
-    assert cleanNLandNumbers()
+    d = Dialog("Docusign_p08.txt")
+    assert d.cleanListText[:3] == ['WEBVTT', '00:00:04.170 --> 00:00:05.819', 'Mike Melton: Can you tell me about your business.']
