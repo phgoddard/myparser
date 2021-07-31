@@ -1,5 +1,6 @@
 import os
 import re
+from db import mysql_repository
 
 class Dialog():
     '''
@@ -166,6 +167,7 @@ class Dialog():
 if __name__ == "__main__":
 
     d = Dialog('Docusign_p08.txt','notimestamps_Docusign_p08.txt')
+    repo = mysql_repository()
     print(d.filename)
     print(d.outfilename)
     print("output dialogLines: ",d.DialogLines[:10])
