@@ -1,6 +1,6 @@
 import os
 import re
-from db import mysql_repository
+from db.mysql_repository import *
 
 class Study():
     #store study name and id for any study that has research associated with it
@@ -137,7 +137,7 @@ if __name__ == "__main__":
     print(f.DialogLines[:5])
 
     d = Dialog(f.DialogLines)
-    #repo = mysql_repository()
+    repo = MysqlRepository()
 
     print("output cleanListText: ",d.cleanListText[:10])
     print("output noTimeStampText: ",d.noTimeStampsText[:10])
