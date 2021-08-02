@@ -3,7 +3,7 @@ from db.mysql_repository import *
 repo = MysqlRepository()
 
 
-from app.myparser import *
+from app.services import *
 import pytest
 
 def test_readFile():
