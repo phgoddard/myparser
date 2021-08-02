@@ -2,6 +2,37 @@ import os
 import re
 from db import mysql_repository
 
+class Study():
+    #store study name and id for any study that has research associated with it
+    def __init__(self, studyname: str, study_id: int):
+        #class variables
+        self.studyname = studyname
+        self.study_id = study_id
+
+class File():
+    #store file metadata and the original text from the file
+    def __init__(self, filename: str, outfilename: str):
+        # class level variables
+        self.cwd = str
+        self.WorkingDir = str
+        self.filename = filename
+        self.outfilename  = outfilename
+        self.DialogLines = []           #original text is read as lines
+        #class methods
+        self.WorkingDir = self.changeWorkingDir()
+        self.DialogLines = self.readFile()
+
+    def changeWorkingDir(self):
+        self.WorkingDir = os.chdir('/Users/tandemseven/Desktop/HLT Program/596A HLT Internship/Thematic-data/docusignresearchtranscriptthemetopicevaluation')
+        return os.getcwd()
+
+    def readFile(self):
+        #first data file created: -> DialogLines
+        for line in open(self.filename,'r'):
+            self.DialogLines.append(line)
+        return self.DialogLines
+
+
 class Dialog():
     '''
     Dialog ingests a transcript consisting of an interview between an interviewer and respondent
@@ -15,48 +46,30 @@ class Dialog():
     6 - Removes file meta-data (e.g. the transcript tool name)
     7 -
     '''
-    def __init__(self, filename: str, outfilename: str):
-        #class level variables
-        self.cwd = str
-        self.WorkingDir = str
-        self.filename = filename
-        self.DialogLines = []
-        self.cleanListText = []
-        self.noTimeStampsText = []
+    def __init__(self, inputDialog: list):
+        self.cleanListText = []         #new lines and extraneous int digits are stripped
+        self.noTimeStampsText = []      #all timestamps are removed
         self.speaker = str
-        self.speakers = []
-        self.speakerSet = set
-        self.speakerList = []
-        self.speaker_segments = []
-        self.metaData = []
-        self.questions = []
-        self.responses = []
-        self.finalDialog = []
-        self.outfilename  = outfilename
+        self.speakers = []              #acculumative list of all references to speakers of dialog
+        self.speakerSet = set           #just the set of unique speakers is stored
+        self.speakerList = []           #set is converted to list
+        self.speaker_segments = []      #list of dialog for a given speaker
+        self.metaData = []              #everything before the first timestamp
+        self.questions = []             #all dialog from the interviewer
+        self.responses = []             #all dialog from the respondent
 
         #initialized class methods
-        self.WorkingDir = self.changeWorkingDir()
-        self.DialogLines = self.readFile()
+
         self.cleanListText = self.cleanNLandNumbers()
         self.noTimeStampsText = self.cleanTimeStamps()
         self.speakerSet = self.getSpeakers()
         self.cleanListText = self.getMetaData()
         #self.speaker_segments = self.getSpeakerDialog(0)
 
-    def changeWorkingDir(self):
-        self.WorkingDir = os.chdir('/Users/tandemseven/Desktop/HLT Program/596A HLT Internship/Thematic-data/docusignresearchtranscriptthemetopicevaluation')
-        return os.getcwd()
-
-    def readFile(self):
-        #first data file created: -> DialogLines
-        for line in open(self.filename,'r'):
-            self.DialogLines.append(line)
-        return self.DialogLines
-
     def cleanNLandNumbers(self):
         #removes newlines and integer IDs for snippet of dialog: -> cleanListText
         self.rx = '^\d\d*\\n'
-        for line in self.DialogLines:
+        for line in f.DialogLines:
             if line != "\n" and not re.search(self.rx,line):
                 self.cleanListText.append(line.strip())
         return self.cleanListText
@@ -71,7 +84,6 @@ class Dialog():
                 self.noTimeStampsText.append(line)
 
         return self.noTimeStampsText[1:]
-
 
     def getSpeakers(self):
         #reads cleanListText and finds speakers: -> speakerList
@@ -99,58 +111,11 @@ class Dialog():
             i+=1
         return self.cleanListText[1:]
 
-    def getSpeakerDialog(self, speaker:str):
-        #takes speaker name as input and loops through each line/string in cleanListText
-        #if speaker name is present in line, extracts line for that speaker
-        #writes all speaker lines to an output file, does not write timestamps
-        #stores speaker lines in list of tuples: speaker_segments
-        #each line is tuple: [(1,'Mike Melton: text....),(15, 'Mike Melton: text'),(),()]
-
-        self.speaker_segments = []
-        for i, line in enumerate(self.cleanListText):
-            self.res = re.search(speaker, line)
-            if self.res:
-                self.speaker_segments.append((i,line))
-
-        #write file
-        self.speakfile = open(speaker+"_dialog.txt",'w')
-        self.speakfile.write("Speaker Dialog: ")
-        self.speakfile.write(speaker+'\n')
-        for i, sent in enumerate(self.speaker_segments):
-            self.speakfile.write(str(i) + ' ')
-            self.speakfile.write(sent[1])
-            self.speakfile.write('\n')
-        self.speakfile.close()
-
-        return self.speaker_segments
-
-    def getFinalDialog(self, speaker1: str, speaker2: str, skip: int):
-        #combines question and response files as a time sequence using the ID of each tuple
-        #skip is used if transcipt has incremental ID for each utternance, sometimes all odd or even
-        self.questions = self.getSpeakerDialog(speaker1)
-        self.responses = self.getSpeakerDialog(speaker2)
-        self.counter = len(self.questions) + len(self.responses)
-        print("length of dialog: ", self.counter)
-        self.qcounter = 0
-        self.rcounter = 0
-        k=1
-        for i in range(0,self.counter-1):
-            if self.questions[self.qcounter][0] == k:
-                print(i,"Qk: ", self.questions[self.qcounter][0],"Qcounter: ",self.qcounter, self.questions[self.qcounter][1])
-                self.finalDialog.append(self.questions[self.qcounter][1])
-                self.qcounter+=1
-            else:
-                self.finalDialog.append(self.responses[self.rcounter][1])
-                print(i,"Rk: ", self.responses[self.rcounter][0],"Rcounter: ",self.rcounter, self.responses[self.rcounter][1])
-                self.rcounter+=1
-            k+=skip
-        return self.finalDialog
-
     def saveDialog(self, data: list):
         #writes out cleanListText (both interviewer and respondent) with metadata
-        self.outFile = open(self.outfilename,'w')
+        self.outFile = open(f.outfilename,'w')
         self.outFile.write("Input file: ")
-        self.outFile.write(self.filename + '\n')
+        self.outFile.write(f.filename + '\n')
 
         self.outFile.write("Speakers: ")
         for i in range(len(self.speakerList)):
@@ -162,19 +127,20 @@ class Dialog():
             self.outFile.write(sent + '\n')
         self.outFile.close()
 
-
-
 if __name__ == "__main__":
 
-    d = Dialog('Docusign_p08.txt','notimestamps_Docusign_p08.txt')
-    repo = mysql_repository()
-    print(d.filename)
-    print(d.outfilename)
-    print("output dialogLines: ",d.DialogLines[:10])
+    s = Study('Docusign','1')
+    print(s.studyname, s.study_id)
+
+    f = File('Docusign_p08.txt','notimestamps_Docusign_p08.txt')
+    print(f.filename, f.outfilename)
+    print(f.DialogLines[:5])
+
+    d = Dialog(f.DialogLines)
+    #repo = mysql_repository()
+
     print("output cleanListText: ",d.cleanListText[:10])
     print("output noTimeStampText: ",d.noTimeStampsText[:10])
-    print("output getSpeakers: ",d.getSpeakers())
-    print("output getMetaData: ",d.getMetaData())
     d.saveDialog(d.noTimeStampsText)
 
 

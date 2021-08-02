@@ -19,3 +19,14 @@ class MysqlRepository(Repository):
     def __del__(self):
         self.cursor.close()
         self.connection.close()
+
+    def save_cxdata(self):
+        sql = 'SELECT * FROM dialog'
+        self.cursor.execute(sql)
+        entries = [{'file_id': file_id,
+                    'line_number': line_number,
+                    'line_txt': line_text,
+                    'clean_nlnum': clean_nlnum,
+                    'clean_timestamp': clean_timestamp,
+                    'speaker_name': speaker_name
+                    } for (file_id, line_number, line_text, clean_nlnum, clean_timestamp, speaker_name) in self.cursor]

@@ -1,4 +1,7 @@
 import cmd
+from db.mysql_repository import *
+repo = MysqlRepository()
+
 
 from app.myparser import *
 import pytest
