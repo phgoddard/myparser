@@ -1,36 +1,64 @@
 import os
 import re
-from db.mysql_repository import *
+import db.mysql_repository
+
+class Services():
+    def __init__(self):
+        self.repo = db.mysql_repository.MysqlRepository()
+
+    def get_study(self):
+        s = Study('Docusign')
+        print(s.studyname)
+        self.repo.save_study(s)
+
+    def get_file(self):
+        f = File('Docusign_p08.txt')
+        print(f.file_name)
+        print(f.all_text[:5])
+        self.repo.save_file(f)
+        return f.all_text
+
+    def get_dialog(self, filedata):
+        d = Dialog(filedata,  'notimestamps_Docusign_p08.txt')
+        print("output cleanListText: ", d.cleanListText[:10])
+        print("output noTimeStampText: ", d.noTimeStampsText[:10])
+        d.saveDialog(d.noTimeStampsText, 'notimestamps_Docusign_p08.txt')
+        self.repo.save_dialog(d)
+
 
 class Study():
     #store study name and id for any study that has research associated with it
-    def __init__(self, studyname: str, study_id: int):
+    def __init__(self, studyname: str):
         #class variables
         self.studyname = studyname
-        self.study_id = study_id
 
 class File():
     #store file metadata and the original text from the file
-    def __init__(self, filename: str, outfilename: str):
+    def __init__(self, file_name: str):
         # class level variables
         self.cwd = str
         self.WorkingDir = str
-        self.filename = filename
-        self.outfilename  = outfilename
-        self.DialogLines = []           #original text is read as lines
+        self.file_name = file_name
+        self.stuff = str
+        self.all_text = []           #original text is read as lines
         #class methods
         self.WorkingDir = self.changeWorkingDir()
-        self.DialogLines = self.readFile()
+        self.all_text = self.readFile()
 
     def changeWorkingDir(self):
         self.WorkingDir = os.chdir('/Users/tandemseven/Desktop/HLT Program/596A HLT Internship/Thematic-data/docusignresearchtranscriptthemetopicevaluation')
         return os.getcwd()
 
     def readFile(self):
-        #first data file created: -> DialogLines
-        for line in open(self.filename,'r'):
-            self.DialogLines.append(line)
-        return self.DialogLines
+        #first data file created: -> all_text
+        inFile = open(self.file_name,'r')
+        self.stuff = inFile.read()
+        self.stuff = ''.join(self.stuff)
+        self.stuff = self.stuff.split("'")
+        self.all_text = "\\'".join(self.stuff)
+        #self.all_text = self.stuff.splitlines()
+        return self.all_text
+
 
 
 class Dialog():
@@ -46,7 +74,8 @@ class Dialog():
     6 - Removes file meta-data (e.g. the transcript tool name)
     7 -
     '''
-    def __init__(self, inputDialog: list):
+    def __init__(self, dialogobj, output_filename):
+        self.output_filename = str
         self.cleanListText = []         #new lines and extraneous int digits are stripped
         self.noTimeStampsText = []      #all timestamps are removed
         self.speaker = str
@@ -60,16 +89,19 @@ class Dialog():
 
         #initialized class methods
 
-        self.cleanListText = self.cleanNLandNumbers()
+        self.cleanListText = self.cleanNLandNumbers(filedata)
         self.noTimeStampsText = self.cleanTimeStamps()
         self.speakerSet = self.getSpeakers()
         self.cleanListText = self.getMetaData()
         #self.speaker_segments = self.getSpeakerDialog(0)
 
-    def cleanNLandNumbers(self):
+    def cleanNLandNumbers(self,filedata):
         #removes newlines and integer IDs for snippet of dialog: -> cleanListText
-        self.rx = '^\d\d*\\n'
-        for line in f.DialogLines:
+        filedata = filedata.splitlines()
+        while ("" in filedata):
+            filedata.remove("")
+        self.rx = ('\d\d*')
+        for line in filedata:
             if line != "\n" and not re.search(self.rx,line):
                 self.cleanListText.append(line.strip())
         return self.cleanListText
@@ -111,11 +143,11 @@ class Dialog():
             i+=1
         return self.cleanListText[1:]
 
-    def saveDialog(self, data: list):
+    def saveDialog(self, data: list, output_filename: str):
         #writes out cleanListText (both interviewer and respondent) with metadata
-        self.outFile = open(f.outfilename,'w')
+        self.outFile = open(output_filename,'w')
         self.outFile.write("Input file: ")
-        self.outFile.write(f.filename + '\n')
+        self.outFile.write(output_filename + '\n')
 
         self.outFile.write("Speakers: ")
         for i in range(len(self.speakerList)):
@@ -127,20 +159,12 @@ class Dialog():
             self.outFile.write(sent + '\n')
         self.outFile.close()
 
+
 if __name__ == "__main__":
 
-    s = Study('Docusign','1')
-    print(s.studyname, s.study_id)
-
-    f = File('Docusign_p08.txt','notimestamps_Docusign_p08.txt')
-    print(f.filename, f.outfilename)
-    print(f.DialogLines[:5])
-
-    d = Dialog(f.DialogLines)
-    repo = MysqlRepository()
-
-    print("output cleanListText: ",d.cleanListText[:10])
-    print("output noTimeStampText: ",d.noTimeStampsText[:10])
-    d.saveDialog(d.noTimeStampsText)
+    services = Services()
+    services.get_study()
+    filedata = services.get_file()
+    services.get_dialog(filedata)
 
 

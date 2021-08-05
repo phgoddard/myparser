@@ -17,16 +17,40 @@ class MysqlRepository(Repository):
         self.cursor = self.connection.cursor()
 
     def __del__(self):
-        self.cursor.close()
+        #self.cursor.close()
         self.connection.close()
 
-    def save_cxdata(self):
-        sql = 'SELECT * FROM dialog'
+    def save_study(self, studyobj):
+        sql = ("INSERT INTO study "
+         "(studyname) "
+         f"VALUES ("
+         f"'{studyobj.studyname}') "
+        )
+        print(sql)
         self.cursor.execute(sql)
-        entries = [{'file_id': file_id,
-                    'line_number': line_number,
-                    'line_txt': line_text,
-                    'clean_nlnum': clean_nlnum,
-                    'clean_timestamp': clean_timestamp,
-                    'speaker_name': speaker_name
-                    } for (file_id, line_number, line_text, clean_nlnum, clean_timestamp, speaker_name) in self.cursor]
+        self.connection.commit()
+
+    def save_file(self, fileobj):
+        sql = ("INSERT INTO file "
+         "(file_name,all_text) "
+         f"VALUES ("
+         f"'{fileobj.file_name}', "
+         f"'{fileobj.all_text}') "
+         )
+        print(sql)
+        self.cursor.execute(sql)
+        self.connection.commit()
+
+    def save_dialog(self, dialogobj):
+        sql = ("INSERT INTO dialog "
+               "(line_number,clean_timestamp,speaker_name,file_id,output_filename) "
+               f"VALUES ("
+               f"{dialogobj.line_number}, "
+               f"'{dialogobj.clean_timestamp}', "
+               f"'{dialogobj.speaker_name}', "
+               f"'{dialogobj.output_filename}', "
+               f"{dialogobj.file_id}) "
+               )
+        print(sql)
+        self.cursor.execute(sql)
+        self.connection.commit()
