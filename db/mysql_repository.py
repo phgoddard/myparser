@@ -22,35 +22,41 @@ class MysqlRepository(Repository):
 
     def save_study(self, studyobj):
         sql = ("INSERT INTO study "
-         "(studyname) "
+         "(studyname,study_id) "
          f"VALUES ("
-         f"'{studyobj.studyname}') "
+         f"'{studyobj.studyname}', "
+         f"{studyobj.study_id}) "
         )
-        print(sql)
+        #print(sql)
         self.cursor.execute(sql)
         self.connection.commit()
 
     def save_file(self, fileobj):
         sql = ("INSERT INTO file "
-         "(file_name,all_text) "
+         "(file_id,file_name,all_text,study_id) "
          f"VALUES ("
+         f"{fileobj.file_id}, "
          f"'{fileobj.file_name}', "
-         f"'{fileobj.all_text}') "
+         f"'{fileobj.all_text}', "
+         f"{fileobj.study_id}) "
          )
-        print(sql)
+        #print(sql)
         self.cursor.execute(sql)
         self.connection.commit()
 
     def save_dialog(self, dialogobj):
         sql = ("INSERT INTO dialog "
-               "(line_number,clean_timestamp,speaker_name,file_id,output_filename) "
-               f"VALUES ("
-               f"{dialogobj.line_number}, "
-               f"'{dialogobj.clean_timestamp}', "
-               f"'{dialogobj.speaker_name}', "
-               f"'{dialogobj.output_filename}', "
-               f"{dialogobj.file_id}) "
-               )
+               "(file_id,line_number,speaker_name,clean_timestamp) "
+               f"VALUES ")
+        print(dialogobj.dialogdata_for_sql)
+        for row in range(1,len(dialogobj.dialogdata_for_sql)):
+            row_str = ( f"({dialogobj.file_id}, "
+                        f"{dialogobj.dialogdata_for_sql[row][0]}, "
+                        f"'{dialogobj.dialogdata_for_sql[row][1]}', "
+                        f"'{dialogobj.dialogdata_for_sql[row][2]}'), "
+                )
+            sql += row_str
+        sql = sql[:-2]
         print(sql)
         self.cursor.execute(sql)
         self.connection.commit()

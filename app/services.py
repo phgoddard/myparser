@@ -7,39 +7,43 @@ class Services():
         self.repo = db.mysql_repository.MysqlRepository()
 
     def get_study(self):
-        s = Study('Docusign')
+        s = Study('Docusign',1)
         print(s.studyname)
         self.repo.save_study(s)
 
     def get_file(self):
-        f = File('Docusign_p08.txt')
+        f = File('Docusign_p08.txt',1,2)
         print(f.file_name)
         print(f.all_text[:5])
         self.repo.save_file(f)
         return f.all_text
 
     def get_dialog(self, filedata):
-        d = Dialog(filedata,  'notimestamps_Docusign_p08.txt')
+        d = Dialog(filedata,  'notimestamps_Docusign_p02.txt',2)
         print("output cleanListText: ", d.cleanListText[:10])
         print("output noTimeStampText: ", d.noTimeStampsText[:10])
-        d.saveDialog(d.noTimeStampsText, 'notimestamps_Docusign_p08.txt')
+        print("output dialogdata_for_sql", d.dialogdata_for_sql[:10])
+        d.saveDialog(d.dialogdata_for_sql, 'Final_Docusign_p02.txt')
         self.repo.save_dialog(d)
 
 
 class Study():
     #store study name and id for any study that has research associated with it
-    def __init__(self, studyname: str):
+    def __init__(self, studyname: str, study_id: int):
         #class variables
         self.studyname = studyname
+        self.study_id = study_id
 
 class File():
     #store file metadata and the original text from the file
-    def __init__(self, file_name: str):
+    def __init__(self, file_name: str, study_id, file_id: int):
         # class level variables
-        self.cwd = str
-        self.WorkingDir = str
+        self.cwd = ""
+        self.WorkingDir = ""
+        self.file_id = file_id
         self.file_name = file_name
-        self.stuff = str
+        self.study_id = study_id
+        self.stuff = ""
         self.all_text = []           #original text is read as lines
         #class methods
         self.WorkingDir = self.changeWorkingDir()
@@ -74,11 +78,13 @@ class Dialog():
     6 - Removes file meta-data (e.g. the transcript tool name)
     7 -
     '''
-    def __init__(self, dialogobj, output_filename):
-        self.output_filename = str
+    def __init__(self, dialogobj, output_filename, file_id):
+        self.file_id = file_id
+        self.output_filename = ""
         self.cleanListText = []         #new lines and extraneous int digits are stripped
+        self.dialogdata_for_sql = []    #List of lists of rows [[0,'speaker name','dialog text.....'],[1,'speakername','text...']...]
         self.noTimeStampsText = []      #all timestamps are removed
-        self.speaker = str
+        self.speaker = ""
         self.speakers = []              #acculumative list of all references to speakers of dialog
         self.speakerSet = set           #just the set of unique speakers is stored
         self.speakerList = []           #set is converted to list
@@ -89,7 +95,8 @@ class Dialog():
 
         #initialized class methods
 
-        self.cleanListText = self.cleanNLandNumbers(filedata)
+        self.cleanNLandNumbers(filedata)
+        self.dialogdata_for_sql = self.format_for_sql()
         self.noTimeStampsText = self.cleanTimeStamps()
         self.speakerSet = self.getSpeakers()
         self.cleanListText = self.getMetaData()
@@ -104,7 +111,44 @@ class Dialog():
         for line in filedata:
             if line != "\n" and not re.search(self.rx,line):
                 self.cleanListText.append(line.strip())
-        return self.cleanListText
+
+    def format_for_sql(self):
+        self.speaker = ""
+        self.textline = ""
+        self.rgSpeaker = '[A-za-z]+ ?[A-Za-z]+:'
+        self.rgtextline = ':.*'
+        self.rgjusttext = '.*'
+
+        print(self.cleanListText)
+        self.rownum = 0
+        for line in self.cleanListText:
+            print(line)
+            self.row = []
+            if ":" in line:
+                self.smatch = re.search(self.rgSpeaker, line)
+                if self.smatch != None:
+                    self.speaker = self.smatch.group()
+
+                self.smatch = re.search(self.rgtextline, line)
+                if self.smatch != None:
+                    self.textline = self.smatch.group()
+
+                self.row.append(self.rownum)
+                self.row.append(self.speaker[:-1])
+                self.row.append(self.textline[2:])
+                self.dialogdata_for_sql.append(self.row)
+            else:
+                self.smatch = re.search(self.rgjusttext, line)
+                if self.smatch != None:
+                    self.textline = self.smatch.group()
+                    # print(rownum,textline)
+                    self.row.append(self.rownum)
+                    self.row.append(self.speaker[:-1])
+                    self.row.append(self.textline)
+                    self.dialogdata_for_sql.append(self.row)
+            print(self.row)
+            self.rownum += 1
+        return self.dialogdata_for_sql
 
     def cleanTimeStamps(self):
         self.rgTimestamp1 = '\d\d:\d\d:\d\d.\d\d\d --> \d\d:\d\d:\d\d.\d\d\d'
@@ -154,16 +198,17 @@ class Dialog():
             self.outFile.write(self.speakerList[i])
             self.outFile.write('\n')
 
-        for i, sent in enumerate(data):
-            self.outFile.write(str(i) + ' ')
-            self.outFile.write(sent + '\n')
+        #for i, sent in enumerate(data):
+        #    self.outFile.write(str(i) + ' ')
+        #    self.outFile.write(sent)
+        #    self.outFile.write('\n')
         self.outFile.close()
 
 
 if __name__ == "__main__":
 
     services = Services()
-    services.get_study()
+    #services.get_study()
     filedata = services.get_file()
     services.get_dialog(filedata)
 

@@ -4,7 +4,7 @@ use cxdata;
 
 CREATE TABLE study (
     studyname VARCHAR(128),
-    study_id int NOT NULL AUTO_INCREMENT,
+    study_id int NOT NULL,
     PRIMARY KEY (study_id)
 );
 
