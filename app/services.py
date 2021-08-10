@@ -12,14 +12,14 @@ class Services():
         self.repo.save_study(s)
 
     def get_file(self):
-        f = File('Docusign_p08.txt',1,2)
+        f = File('Docusign_p08.txt',1,3)
         print(f.file_name)
         print(f.all_text[:5])
         self.repo.save_file(f)
         return f.all_text
 
     def get_dialog(self, filedata):
-        d = Dialog(filedata,  'notimestamps_Docusign_p02.txt',2)
+        d = Dialog(filedata,  'notimestamps_Docusign_p02.txt',3)
         print("output cleanListText: ", d.cleanListText[:10])
         print("output noTimeStampText: ", d.noTimeStampsText[:10])
         print("output dialogdata_for_sql", d.dialogdata_for_sql[:10])
