@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Transcript Parser</title>
+</head>
+<body>
+<h1>Transcript Parser</h1>
+<h3>Reads a transcript from remote interviews and extracts the dialog between participants.</h3>
+
+<div>
+<p>Endpoint: http://localhost:5000/tparse</p>
+<p>Request type: POST</p>
+<p>Request body: JSON with fields "file_name", e.g. </p>
+<pre>
+  {
+    "file_name": "Docusign_p08.txt",
+    "studyname": "Docusign",
+    "output_filename: CleanDialog_Docusign_p08.txt"
+  }
+</pre>
+<p>Response: JSON with parse details, e.g. </p>
+<pre>
+  [
+  {
+    "study": {
+      "studyname": "Docusign",
+      "study_id": 1
+    },
+    "file": {
+    "file_name": "Docusign_p08.txt",
+    "file_id": 1,
+    "study_id": 1,
+    "all_text": "Long string of text from entire dialog......"
+    },
+    "dialog": {
+    "file_id": 3,
+    "line_number": 0-number of lines,
+    "speaker_name": "Mike",
+    "clean_timestamp":"dialog for a speaker...."
+    }
+  }
+  ]
+</pre>
+</div>
+
+<h3>Generate words</h3>
+<div>
+<p>Endpoint: http://localhost:5000/generate</p>
+<p>Request type: GET</p>
+<p>Response: </p>
+<pre>
+  {
+    "msg": "success"
+  }
+</pre>
+</div>
+</body>
+</html>

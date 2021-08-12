@@ -208,7 +208,7 @@ class Dialog():
 if __name__ == "__main__":
 
     services = Services()
-    #services.get_study()
+    services.get_study()
     filedata = services.get_file()
     services.get_dialog(filedata)
 
