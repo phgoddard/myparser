@@ -63,8 +63,6 @@ class File():
         #self.all_text = self.stuff.splitlines()
         return self.all_text
 
-
-
 class Dialog():
     '''
     Dialog ingests a transcript consisting of an interview between an interviewer and respondent
@@ -80,7 +78,7 @@ class Dialog():
     '''
     def __init__(self, dialogobj, output_filename, file_id):
         self.file_id = file_id
-        self.output_filename = ""
+        self.output_filename = output_filename
         self.cleanListText = []         #new lines and extraneous int digits are stripped
         self.dialogdata_for_sql = []    #List of lists of rows [[0,'speaker name','dialog text.....'],[1,'speakername','text...']...]
         self.noTimeStampsText = []      #all timestamps are removed
@@ -100,7 +98,6 @@ class Dialog():
         self.noTimeStampsText = self.cleanTimeStamps()
         self.speakerSet = self.getSpeakers()
         self.cleanListText = self.getMetaData()
-        #self.speaker_segments = self.getSpeakerDialog(0)
 
     def cleanNLandNumbers(self,filedata):
         #removes newlines and integer IDs for snippet of dialog: -> cleanListText
@@ -198,15 +195,13 @@ class Dialog():
             self.outFile.write(self.speakerList[i])
             self.outFile.write('\n')
 
-        #for i, sent in enumerate(data):
-        #    self.outFile.write(str(i) + ' ')
-        #    self.outFile.write(sent)
-        #    self.outFile.write('\n')
+        for sent in data:
+            self.outFile.write(sent)
+            self.outFile.write('\n')
         self.outFile.close()
 
 
 if __name__ == "__main__":
-
     services = Services()
     services.get_study()
     filedata = services.get_file()

@@ -11,21 +11,17 @@
 
 <form id="form1">
     <div class="input-group">
-        <label>Enter a study name: <input type="text" id="studyname" name="studyname"/></label>
+        <label>Study name: <input type="text" id="studyname" name="studyname"/></label>
         <button value="study" type="submit">Create Study</button><br>
     </div>
 </form>
 
-<h3>Study Name: <label id="study"></label></h3>
-
 <form id="form2">
     <div class="input-group">
-        <label>Enter the file name of the transcript: <input type="text" id="filename" name="filename"/></label>
+        <label>File name: <input type="text" id="filename" name="filename"/></label>
         <button value="file" type="submit">Get Transcript</button>
     </div>
 </form>
-
-<h3>File Name: <label id="file"></label></h3>
 
 <h2>Transcript Content</h2>
 <pre id="transcript_content"></pre>
@@ -37,12 +33,10 @@
 
 <form id="form3">
     <div class="input-group">
-        <label>Enter the file name to save output to text file (*.txt): <input type="text" id="output_filename" name="output_filename"/></label>
+        <label>Output file (*.txt): <input type="text" id="output_filename" name="output_filename"/></label>
         <button value="dialog" type="submit">Parse and Save</button>
     </div>
 </form>
-
-<h3>Output File Name: <label id="output"></label></h3>
 
 <h2>Parsed Dialog</h2>
 <pre id="parsed_dialog"></pre>

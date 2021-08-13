@@ -21,6 +21,7 @@ class MysqlRepository(Repository):
         self.connection.close()
 
     def save_study(self, studyobj):
+        last_id = self.cursor.getlastrowid()
         sql = ("INSERT INTO study "
          "(studyname,study_id) "
          f"VALUES ("

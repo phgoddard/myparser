@@ -33,13 +33,12 @@ def doc() -> str:
     with open("app/doc.html", "r") as f:
         return f.read()
 
-
 @app.route("/study", methods=["POST"])
 @cross_origin(origin='localhost', headers=['Content-Type', 'Authorization'])
 def study():
     data = request.get_json()
     app.logger.info(f"/study - Got request: {data}")
-    forms = services.get_study()
+    forms = services.get_study(data.get('studyname'),data.get('studyid'))
     app.logger.info(f"/study - Output: {forms}")
     return jsonify(forms)
 
