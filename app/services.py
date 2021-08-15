@@ -5,21 +5,25 @@ import db.mysql_repository
 class Services():
     def __init__(self):
         self.repo = db.mysql_repository.MysqlRepository()
+        self.study_id = -1
 
-    def get_study(self):
-        s = Study('Docusign',1)
-        print(s.studyname)
-        self.repo.save_study(s)
+    def checkifstudy(self, studyname) -> int:
+        study_id = self.repo.checkifstudyexists(studyname)
+        if study_id == []:
+            study_id = self.repo.create_study(studyname)
+        self.study_id = study_id[0]
+        self.s = Study(studyname, study_id[0])
+        return study_id
 
-    def get_file(self):
-        f = File('Docusign_p08.txt',1,3)
-        print(f.file_name)
-        print(f.all_text[:5])
-        self.repo.save_file(f)
-        return f.all_text
+    def get_file(self, file_name):
+        self.f = File(file_name,self.study_id)
+        print(self.f.file_name)
+        print(self.f.all_text[:5])
+        self.repo.save_file(self.f)
+        return self.f.all_text
 
     def get_dialog(self, filedata):
-        d = Dialog(filedata,  'notimestamps_Docusign_p02.txt',3)
+        d = Dialog(filedata,  'notimestamps_Docusign_p02.txt',self.f.file_id)
         print("output cleanListText: ", d.cleanListText[:10])
         print("output noTimeStampText: ", d.noTimeStampsText[:10])
         print("output dialogdata_for_sql", d.dialogdata_for_sql[:10])
@@ -36,27 +40,35 @@ class Study():
 
 class File():
     #store file metadata and the original text from the file
-    def __init__(self, file_name: str, study_id, file_id: int):
+    def __init__(self, file_name: str, study_id):
         # class level variables
         self.cwd = ""
         self.WorkingDir = ""
-        self.file_id = file_id
+        self.file_id = -1
         self.file_name = file_name
         self.study_id = study_id
         self.stuff = ""
         self.all_text = []           #original text is read as lines
         #class methods
-        self.WorkingDir = self.changeWorkingDir()
+        #self.WorkingDir = self.changeWorkingDir()
         self.all_text = self.readFile()
 
     def changeWorkingDir(self):
-        self.WorkingDir = os.chdir('/Users/tandemseven/Desktop/HLT Program/596A HLT Internship/Thematic-data/docusignresearchtranscriptthemetopicevaluation')
-        return os.getcwd()
+        self.WorkingDir = os.chdir('/users/tandemseven/cxdata')
+        """
+        docker cp /users/tandemseven/cxdata
+        docker cp / root / some - file.txt some - docker - container: / root
+        This will copy the file some - file.txt in the directory / root on your host machine into the Docker container named 
+        some - docker - container into the directory / root. It is very
+        close to the secure copy syntax.And as shown in the previous post, you can use it
+        vice versa.I.e., you also copy files from the container to the host.
+        """
+        return self.WorkingDir
 
     def readFile(self):
         #first data file created: -> all_text
-        inFile = open(self.file_name,'r')
-        self.stuff = inFile.read()
+        self.inFile = open(self.file_name,'r')
+        self.stuff = self.inFile.read()
         self.stuff = ''.join(self.stuff)
         self.stuff = self.stuff.split("'")
         self.all_text = "\\'".join(self.stuff)

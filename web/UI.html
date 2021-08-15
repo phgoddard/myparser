@@ -11,10 +11,26 @@
 
 <form id="form1">
     <div class="input-group">
-        <label>Study name: <input type="text" id="studyname" name="studyname"/></label>
+        <label>New study name: <input type="text" id="studyname" name="studyname"/></label>
         <button value="study" type="submit">Create Study</button><br>
     </div>
 </form>
+
+<pre id="study_id"></pre>
+
+<form id="form11">
+    <div class="input-group">
+        <p>Or select from an existing study:
+        <select name = "ExisingStudies" size = "4" multiple>
+            <option>Study1</option>
+            <option>Study2</option>
+        </select>
+        <button value="study" type="submit">Select Study</button><br>
+        </p>
+    </div>
+</form>
+
+
 
 <form id="form2">
     <div class="input-group">
@@ -51,16 +67,16 @@ async function handleSubmit1(event) {
     value.studyname = data.get("studyname");
     console.log({value});
 
-    const response = await fetch('http://localhost:5000/study', {
+    const response = await fetch('http://localhost:5000/checkifstudyexists', {
         method: 'POST',
-        body: JSON.stringify(value),
+        body: JSON.stringify(value),    // sent as json to the endpoint
         headers: {
             'Content-Type': 'application/json',
             }
         });
     const myJson = await response.json();
     console.log(myJson);
-    document.getElementById('study').textContent = JSON.stringify(myJson, undefined, 2);
+    document.getElementById('study_id').textContent = JSON.stringify(myJson, undefined, 2);
 }
 const form1 = document.getElementById("form1");
 form1.addEventListener("submit", async (e) => handleSubmit1(e), false);
@@ -82,7 +98,7 @@ async function handleSubmit2(event) {
         });
     const myJson = await response.json();
     console.log(myJson);
-    document.getElementById('file').textContent = JSON.stringify(myJson, undefined, 2);
+    document.getElementById('transcript_content').textContent = JSON.stringify(myJson, undefined, 2);
 }
 const form2 = document.getElementById("form2");
 form2.addEventListener("submit", async (e) => handleSubmit2(e), false);

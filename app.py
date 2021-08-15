@@ -33,21 +33,21 @@ def doc() -> str:
     with open("app/doc.html", "r") as f:
         return f.read()
 
-@app.route("/study", methods=["POST"])
+@app.route("/checkifstudyexists", methods=["POST"])
 @cross_origin(origin='localhost', headers=['Content-Type', 'Authorization'])
-def study():
-    data = request.get_json()
-    app.logger.info(f"/study - Got request: {data}")
-    forms = services.get_study(data.get('studyname'),data.get('studyid'))
-    app.logger.info(f"/study - Output: {forms}")
-    return jsonify(forms)
+def checkifstudy():
+    data = request.get_json()   #gets deserialized into a python dictionary
+    app.logger.info(f"/checkifstudy - Got request: {data}")
+    study_id = services.checkifstudy(data.get('studyname'))
+    app.logger.info(f"/checkifstudy - Output: {study_id}")
+    return jsonify({"study_id":study_id})
 
 @app.route("/file", methods=["POST"])
 @cross_origin(origin='localhost', headers=['Content-Type', 'Authorization'])
 def file():
     data = request.get_json()
     app.logger.info(f"/file - Got request: {data}")
-    forms = services.get_file()
+    forms = services.get_file(data.get("filename"))  #filename is a dictionary key
     app.logger.info(f"/get_study - Output: {forms}")
     return jsonify(forms)
 
@@ -61,5 +61,5 @@ def dialog():
     return jsonify(forms)
 
 
-if __name__ == "__main__":
+if __name__ == "__main__":   #need to be here to run the flask server - starts it - sleeps until it gets a request
     app.run(host='0.0.0.0')

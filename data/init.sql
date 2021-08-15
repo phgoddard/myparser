@@ -4,14 +4,13 @@ use cxdata;
 
 CREATE TABLE study (
     studyname VARCHAR(128),
-    study_id int NOT NULL,
+    study_id int NOT NULL AUTO_INCREMENT,
     PRIMARY KEY (study_id)
 );
 
 CREATE TABLE file
 (   file_name VARCHAR(128),
     file_id int not null auto_increment,
-    file_path VARCHAR(128),
     study_id int,
     all_text text(16000000),
     PRIMARY KEY (file_id),

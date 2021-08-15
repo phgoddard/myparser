@@ -20,8 +20,26 @@ class MysqlRepository(Repository):
         #self.cursor.close()
         self.connection.close()
 
-    def save_study(self, studyobj):
+    def checkifstudyexists(self, studyname):
+        sql = ("SELECT study_id "
+            "FROM study "
+            f"WHERE studyname = '{studyname}'")
+        self.cursor.execute(sql)
+        entries = [study_id[0] for study_id in self.cursor]
+        return entries
+
+    def create_study(self, studyname):
+        sql = ("INSERT INTO study "
+        "(studyname) "
+        "VALUES ("
+        f"'{studyname}')"
+        )
+        self.cursor.execute(sql)
         last_id = self.cursor.getlastrowid()
+        self.connection.commit()
+        return [last_id]
+
+    def save_study(self, studyobj):
         sql = ("INSERT INTO study "
          "(studyname,study_id) "
          f"VALUES ("
@@ -34,16 +52,17 @@ class MysqlRepository(Repository):
 
     def save_file(self, fileobj):
         sql = ("INSERT INTO file "
-         "(file_id,file_name,all_text,study_id) "
+         "(file_name,all_text,study_id) "
          f"VALUES ("
-         f"{fileobj.file_id}, "
          f"'{fileobj.file_name}', "
          f"'{fileobj.all_text}', "
          f"{fileobj.study_id}) "
          )
         #print(sql)
         self.cursor.execute(sql)
+        last_id = self.cursor.getlastrowid()
         self.connection.commit()
+        fileobj.file_id = last_id
 
     def save_dialog(self, dialogobj):
         sql = ("INSERT INTO dialog "
