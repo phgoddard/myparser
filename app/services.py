@@ -17,19 +17,14 @@ class Services():
 
     def get_file(self, file_name):
         self.f = File(file_name,self.study_id)
-        print(self.f.file_name)
-        print(self.f.all_text[:5])
         self.repo.save_file(self.f)
         return self.f.all_text
 
-    def get_dialog(self, filedata):
-        d = Dialog(filedata,  'notimestamps_Docusign_p02.txt',self.f.file_id)
-        print("output cleanListText: ", d.cleanListText[:10])
-        print("output noTimeStampText: ", d.noTimeStampsText[:10])
-        print("output dialogdata_for_sql", d.dialogdata_for_sql[:10])
-        d.saveDialog(d.dialogdata_for_sql, 'Final_Docusign_p02.txt')
+    def get_dialog(self, output_filename):
+        d = Dialog(output_filename, self.f.file_id, self.f.all_text)
+        d.saveDialog(d.dialogdata_for_sql, output_filename)
         self.repo.save_dialog(d)
-
+        return d.dialogdata_for_sql
 
 class Study():
     #store study name and id for any study that has research associated with it
@@ -50,11 +45,11 @@ class File():
         self.stuff = ""
         self.all_text = []           #original text is read as lines
         #class methods
-        #self.WorkingDir = self.changeWorkingDir()
+        self.WorkingDir = self.changeWorkingDir()
         self.all_text = self.readFile()
 
     def changeWorkingDir(self):
-        self.WorkingDir = os.chdir('/users/tandemseven/cxdata')
+        self.WorkingDir = os.chdir('/data/cxdata')
         """
         docker cp /users/tandemseven/cxdata
         docker cp / root / some - file.txt some - docker - container: / root
@@ -72,7 +67,6 @@ class File():
         self.stuff = ''.join(self.stuff)
         self.stuff = self.stuff.split("'")
         self.all_text = "\\'".join(self.stuff)
-        #self.all_text = self.stuff.splitlines()
         return self.all_text
 
 class Dialog():
@@ -88,7 +82,7 @@ class Dialog():
     6 - Removes file meta-data (e.g. the transcript tool name)
     7 -
     '''
-    def __init__(self, dialogobj, output_filename, file_id):
+    def __init__(self, output_filename, file_id, inputdata):
         self.file_id = file_id
         self.output_filename = output_filename
         self.cleanListText = []         #new lines and extraneous int digits are stripped
@@ -105,7 +99,7 @@ class Dialog():
 
         #initialized class methods
 
-        self.cleanNLandNumbers(filedata)
+        self.cleanNLandNumbers(inputdata)
         self.dialogdata_for_sql = self.format_for_sql()
         self.noTimeStampsText = self.cleanTimeStamps()
         self.speakerSet = self.getSpeakers()
@@ -198,7 +192,7 @@ class Dialog():
 
     def saveDialog(self, data: list, output_filename: str):
         #writes out cleanListText (both interviewer and respondent) with metadata
-        self.outFile = open(output_filename,'w')
+        self.outFile = open('/data/cxdata/' + output_filename,'w')
         self.outFile.write("Input file: ")
         self.outFile.write(output_filename + '\n')
 
@@ -208,7 +202,7 @@ class Dialog():
             self.outFile.write('\n')
 
         for sent in data:
-            self.outFile.write(sent)
+            [self.outFile.write (str(s) + ", ") for s in sent]
             self.outFile.write('\n')
         self.outFile.close()
 

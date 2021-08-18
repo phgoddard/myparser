@@ -1,0 +1,1386 @@
+WEBVTT
+
+1
+00:00:04.170 --> 00:00:05.819
+Mike Melton: Can you tell me about your business.
+
+2
+00:00:06.990 --> 00:00:13.320
+SpinCar Syracuse: Yes so so spin car. Oh, I'm sorry. One second delivery just came in.
+
+3
+00:00:17.910 --> 00:00:19.140
+SpinCar Syracuse: Enormous delivery. So
+
+4
+00:00:21.180 --> 00:00:24.780
+Mike Melton: Okay happens I meet with busy people
+
+5
+00:00:25.530 --> 00:00:26.340
+No worries.
+
+6
+00:00:27.870 --> 00:00:29.190
+SpinCar Syracuse: Yeah, so I'm
+
+7
+00:00:30.600 --> 00:00:34.230
+SpinCar Syracuse: Just going to move into a place where slightly less out in the open.
+
+8
+00:00:35.910 --> 00:00:36.660
+SpinCar Syracuse: So,
+
+9
+00:00:38.370 --> 00:00:39.990
+SpinCar Syracuse: Yeah, overall,
+
+10
+00:00:41.250 --> 00:00:53.040
+SpinCar Syracuse: experience so far with DocuSign has been has been pretty good. I like your guys's UI. In particular, I found that to be a lot better than most of the other signing products. I've tried out
+
+11
+00:00:53.820 --> 00:01:06.000
+Mike Melton: Good. Well, we can talk about. We'll talk about your comparisons that a little bit. A little bit here is running. First, if you can tell me a little bit more about your business and about your role and your business.
+
+12
+00:01:06.300 --> 00:01:14.880
+SpinCar Syracuse: Right. Yes. So, um, yeah. So our business sprint car. What we do is I guess sort of automotive merchandising
+
+13
+00:01:16.050 --> 00:01:18.000
+SpinCar Syracuse: We're a tech company. And so we
+
+14
+00:01:19.260 --> 00:01:30.300
+SpinCar Syracuse: We have a product that it's, it's an app on a phone that allows you to shoot a 360 degree spin of a car and then auto dealers can put that on their website so
+
+15
+00:01:31.140 --> 00:01:41.940
+SpinCar Syracuse: End users can kind of interact with the car more and kind of see it from any angle that's that's kind of our primary product. We've got other stuff kind of related to that. But it's all sort of based around that concept.
+
+16
+00:01:43.380 --> 00:01:44.790
+Mike Melton: Good and your role.
+
+17
+00:01:45.570 --> 00:01:46.650
+SpinCar Syracuse: Um yeah team manager.
+
+18
+00:01:47.400 --> 00:01:50.160
+Mike Melton: Okay, what do you do exactly
+
+19
+00:01:53.640 --> 00:01:56.670
+Mike Melton: Yeah what so what what are some of your responsibilities.
+
+20
+00:01:57.300 --> 00:01:59.370
+SpinCar Syracuse: I'm everything
+
+21
+00:02:00.690 --> 00:02:09.570
+SpinCar Syracuse: So pretty much any anything technology if it's if it's evaluating new software, it's if it's figuring out what hardware to put where if it's fixing broken stuff.
+
+22
+00:02:11.370 --> 00:02:22.890
+SpinCar Syracuse: And a whole host of things related to that. So, you know, everything from our network to desktop support to remote support in some cases.
+
+23
+00:02:25.530 --> 00:02:26.010
+SpinCar Syracuse: Yeah.
+
+24
+00:02:27.060 --> 00:02:28.080
+SpinCar Syracuse: I pretty much do everything.
+
+25
+00:02:28.860 --> 00:02:34.680
+Mike Melton: No. Are you the person who decided to invest in geek DocuSign, or were you asked to investigate DocuSign
+
+26
+00:02:35.670 --> 00:02:37.770
+SpinCar Syracuse: Was asked to investigate donkey sign
+
+27
+00:02:38.790 --> 00:02:42.450
+SpinCar Syracuse: Yeah, that that was a project that came down from
+
+28
+00:02:43.890 --> 00:02:56.250
+SpinCar Syracuse: I think it started with some of our sales people just because they they had been had been using a sighting product that they were not satisfied with so they wanted me to explore other options but DocuSign specifically was at their suggestion.
+
+29
+00:03:00.810 --> 00:03:07.710
+Mike Melton: And you did you take a look at other he he signature solutions.
+
+30
+00:03:08.130 --> 00:03:08.880
+Yes.
+
+31
+00:03:09.900 --> 00:03:12.180
+Mike Melton: And so how did you go about
+
+32
+00:03:14.430 --> 00:03:16.380
+Mike Melton: How to go about doing your research on this.
+
+33
+00:03:17.850 --> 00:03:25.410
+SpinCar Syracuse: In the first place, just, I mean literally looking on sites, finding information, looking at that feature sets. And then from there.
+
+34
+00:03:26.340 --> 00:03:41.190
+SpinCar Syracuse: The most intriguing one signing up for trial accounts and then just testing about so uploading a test document, you know, specifying fields and then sending it out for signature to a few people that I would then get feedback from
+
+35
+00:03:42.570 --> 00:03:48.930
+Mike Melton: Now, can, would you mind sharing your screen and showing me how you investigated. Some of these
+
+36
+00:03:51.810 --> 00:04:05.730
+Mike Melton: Features and I just want to low learn a little bit more about what you were considering and and your reaction to how the information was being presented and and what, what were your the criteria for your decision making.
+
+37
+00:04:06.570 --> 00:04:08.250
+SpinCar Syracuse: Gotcha. Yeah.
+
+38
+00:04:15.210 --> 00:04:16.500
+SpinCar Syracuse: So, um,
+
+39
+00:04:17.700 --> 00:04:19.590
+SpinCar Syracuse: Yeah. So in the first place.
+
+40
+00:04:20.910 --> 00:04:28.380
+SpinCar Syracuse: You know, be searching, like literally like signing software or something along those lines, you know, doing a Google search.
+
+41
+00:04:30.120 --> 00:04:30.600
+SpinCar Syracuse: And
+
+42
+00:04:31.770 --> 00:04:36.600
+SpinCar Syracuse: Then in this case as well. I would since I did have a couple of specific ones.
+
+43
+00:04:37.800 --> 00:04:42.330
+SpinCar Syracuse: Then you know did a Google search literally just for DocuSign
+
+44
+00:04:44.010 --> 00:04:49.620
+SpinCar Syracuse: headed over to the site. And in this case, before I went from here.
+
+45
+00:04:52.920 --> 00:04:55.980
+I think I typically just look at
+
+46
+00:04:59.820 --> 00:05:12.090
+SpinCar Syracuse: Yeah so so electronics insurers looking for, you know, you can scroll down, check out benefits, but I really when I'm when I'm evaluating stuff. I like a specific list of features of
+
+47
+00:05:12.630 --> 00:05:21.330
+SpinCar Syracuse: Features like a like a grid is actually my preference, you know, so you can see like different levels, different features available at those levels.
+
+48
+00:05:22.560 --> 00:05:30.570
+SpinCar Syracuse: I mean the the feature benefit language in marketing material like this kind of thing is it's not bad.
+
+49
+00:05:31.980 --> 00:05:47.280
+SpinCar Syracuse: But I'm used to evaluating particularly like hardware. So looking at like a laptop, you know, I would much rather have just a list of straight features like okay, what's the process or what's the memory.
+
+50
+00:05:48.480 --> 00:05:55.650
+SpinCar Syracuse: You know, and so the same kind of thing applies here where where it looks awesome. The kind of the marketing stuff but
+
+51
+00:05:57.270 --> 00:06:01.770
+SpinCar Syracuse: It's I prefer to have kind of all the information in front of me, like on a spreadsheet, you know,
+
+52
+00:06:03.900 --> 00:06:05.430
+Mike Melton: And what were some of the
+
+53
+00:06:06.450 --> 00:06:10.050
+Mike Melton: Did you use any comparison science you
+
+54
+00:06:11.370 --> 00:06:14.130
+SpinCar Syracuse: ever did. I think I may have looked up.
+
+55
+00:06:16.650 --> 00:06:28.560
+SpinCar Syracuse: I think if there were any comparison sites or it's like that. So that kind of the main one that we were comparing you guys to was Adobe sign. In this case, actually, they didn't even realize that the name had changed from my cosine
+
+56
+00:06:29.790 --> 00:06:30.180
+SpinCar Syracuse: And
+
+57
+00:06:31.200 --> 00:06:42.420
+SpinCar Syracuse: So they wanted me to kind of, kind of, especially compare those two. So I think I probably just did a Google search for like DocuSign versus Adobe sign or something like that and
+
+58
+00:06:43.830 --> 00:06:50.970
+SpinCar Syracuse: Our DocuSign versus echo sign or whatever. And that's right, yeah. So I went to. I went to Gartner took a look on here.
+
+59
+00:06:52.680 --> 00:06:57.270
+SpinCar Syracuse: To kind of see how ratings were there checked out user reviews.
+
+60
+00:06:59.370 --> 00:07:11.010
+SpinCar Syracuse: And. And the other thing too, especially when it comes to reviews, looking at the time frame that they're left in because especially with with software and especially with with kind of cloud services, then
+
+61
+00:07:12.120 --> 00:07:24.720
+SpinCar Syracuse: A lot of stuff can change very quickly. And so if I'm looking at a review from, you know, two years ago, then that's not going to be terribly useful since typically feature sets can can change pretty drastically in that time.
+
+62
+00:07:26.520 --> 00:07:33.300
+SpinCar Syracuse: So looking at different reviews, looking at how these compared. I was hoping that they would have the
+
+63
+00:07:33.870 --> 00:07:44.910
+SpinCar Syracuse: What is it the Gartner like magic square or something like that with, you know, showing like industry leaders and that unfortunately Gardner doesn't appear to have one at least specific to be signing
+
+64
+00:07:46.110 --> 00:07:47.790
+SpinCar Syracuse: At least, not that I could find.
+
+65
+00:07:49.170 --> 00:07:53.760
+SpinCar Syracuse: But I'm also used to just kind of manually finding out what I can on my own. So
+
+66
+00:07:55.440 --> 00:08:01.710
+SpinCar Syracuse: If you're not used to searching for official ratings like that. I prefer to kind of get hands on time and really
+
+67
+00:08:02.730 --> 00:08:04.350
+SpinCar Syracuse: You know, see what it's like directly
+
+68
+00:08:05.640 --> 00:08:22.170
+SpinCar Syracuse: But yeah, you know, looked at looked at some blog posts looked at, I think I found a couple of overview videos, although it seems like most of what I was finding was from like 2017 maybe 2018 and the interface did not look
+
+69
+00:08:23.520 --> 00:08:27.300
+SpinCar Syracuse: did not look current. So I'd take all that stuff with a grain of salt.
+
+70
+00:08:28.440 --> 00:08:30.780
+SpinCar Syracuse: Because like I said, I mean it's just constantly changing.
+
+71
+00:08:35.040 --> 00:08:35.520
+Cool.
+
+72
+00:08:37.260 --> 00:08:37.860
+Thank you.
+
+73
+00:08:40.290 --> 00:08:47.100
+Mike Melton: So what were some of the criteria. Did you have a list of like a feature criteria that you're really looking for.
+
+74
+00:08:48.060 --> 00:08:55.410
+SpinCar Syracuse: Um, I had sort of an informal list. I mean it, you know, at the end of the day, it had to be able to
+
+75
+00:08:56.460 --> 00:09:05.670
+SpinCar Syracuse: You know, send out a document for a signature is really the the key, obviously, but some there were a couple things. In particular, they were looking for.
+
+76
+00:09:07.020 --> 00:09:19.860
+SpinCar Syracuse: So at the time had an individual Adobe sign plan they wanted the ability for individual sales reps to send out documents and have them appear be basically interact with their own emails, because the individual. Look at that. They were using previously.
+
+77
+00:09:20.520 --> 00:09:32.430
+SpinCar Syracuse: It would all go back to one place, but that also meant like every time they signed in, they had to verify that sign in through that, that one person's phone and it was just not good.
+
+78
+00:09:33.570 --> 00:09:36.300
+SpinCar Syracuse: And so there were looking for for something that would work.
+
+79
+00:09:37.770 --> 00:09:47.430
+SpinCar Syracuse: You know, and more of an enterprise type thing where you've got, you know, kind of main enterprise account and then individual accounts as part of that that individuals can send stuff out from and receive stuff that
+
+80
+00:09:48.600 --> 00:09:51.810
+SpinCar Syracuse: So that was that was obviously the biggest part of it.
+
+81
+00:09:53.190 --> 00:10:12.210
+SpinCar Syracuse: And then also looking for Salesforce integration, seeing what you know what exactly that Salesforce integration looks like and you know how granular. Can we get with what we what what information gets imported where I worked on that with
+
+82
+00:10:13.230 --> 00:10:14.610
+SpinCar Syracuse: With our Salesforce admin.
+
+83
+00:10:16.020 --> 00:10:33.240
+SpinCar Syracuse: And I also know that when he was at Dream force than he was talking to DocuSign had a had a booth there had some people there. And so I know he spent quite a bit of time there. I'll talk to them as well, finding out about the Salesforce piece and
+
+84
+00:10:34.500 --> 00:10:46.080
+SpinCar Syracuse: Just finding out about how stuff work. Overall, and it also especially stood out to him that Adobe sign did not have a presence there a dream for us, or at least, at least not as far as he could tell, and
+
+85
+00:10:47.370 --> 00:10:50.190
+SpinCar Syracuse: So that that was definitely a factor there.
+
+86
+00:10:51.240 --> 00:10:56.940
+SpinCar Syracuse: But yeah, looking for for, you know, robust Salesforce integration was definitely part of that.
+
+87
+00:10:58.380 --> 00:11:06.540
+SpinCar Syracuse: Also looking for ease of editing. So, you know, say like the verbiage, in particular standard agreement of ours.
+
+88
+00:11:06.840 --> 00:11:23.430
+SpinCar Syracuse: Changed then being able to kind of re upload the document without having to go through the process from square one again of designating fields and getting everything tied together. So just having, having some flexibility in in setting that up, was it was a big piece.
+
+89
+00:11:26.460 --> 00:11:26.760
+Mike Melton: And
+
+90
+00:11:34.230 --> 00:11:37.530
+Mike Melton: And can you tell me a little bit about how you started
+
+91
+00:11:39.570 --> 00:11:45.630
+Mike Melton: How you decided to do the DocuSign 30 day trial and and how you signed up for that.
+
+92
+00:11:46.350 --> 00:11:49.920
+SpinCar Syracuse: Gotcha. A one through the DocuSign site and
+
+93
+00:11:51.180 --> 00:11:56.460
+SpinCar Syracuse: I'm yeah i think i literally click the free trial link and went through there, if I remember right
+
+94
+00:11:58.230 --> 00:11:59.460
+SpinCar Syracuse: And yeah, set that up.
+
+95
+00:12:00.930 --> 00:12:02.910
+SpinCar Syracuse: And you had set up the
+
+96
+00:12:04.680 --> 00:12:21.510
+SpinCar Syracuse: Trial through there there. I know I was asked if if Salesforce integration would be needed for the trial. So I selected that it actually. I mean, we're still even now in sort of a trial period because we have a couple of pro accounts that we have a couple users using and then
+
+97
+00:12:22.530 --> 00:12:37.950
+SpinCar Syracuse: Based on kind of their experience with that, and especially with our clients experience. It's really that kind of the last piece that that kind of our, our management is waiting for before they fully commit to going with DocuSign kind of enterprise solution with the with the integration.
+
+98
+00:12:39.240 --> 00:12:48.270
+SpinCar Syracuse: You know the of course the most important piece to to all of us is that our clients have a smooth experience when when they're using it.
+
+99
+00:12:49.770 --> 00:12:55.620
+SpinCar Syracuse: So yeah, while the Salesforce integration piece was crucial to the initial free trial with that.
+
+100
+00:12:56.790 --> 00:12:57.210
+SpinCar Syracuse: Then
+
+101
+00:12:58.230 --> 00:13:04.920
+SpinCar Syracuse: Now it's it's really just getting out of that that last piece with a couple of our sales people actually live, you know, using it.
+
+102
+00:13:06.480 --> 00:13:20.850
+SpinCar Syracuse: As if you know that's that's what we're using moving forward, which I I'm reasonably confident it will be. I think the the user experience from what I've seen so far has been very smooth. So I'd be very surprised if there were any changes there.
+
+103
+00:13:22.170 --> 00:13:31.110
+Mike Melton: Um, can you tell me a little bit about the Salesforce integration portion of the of your trial was anything done with that or
+
+104
+00:13:31.620 --> 00:13:32.790
+What, yes.
+
+105
+00:13:33.870 --> 00:13:42.420
+SpinCar Syracuse: Yeah, so our Salesforce admin. I think he really had a more that than me. I'm more or less gave him credentials to our account and said, have fun, but some
+
+106
+00:13:43.680 --> 00:13:44.160
+He
+
+107
+00:13:45.810 --> 00:13:55.920
+SpinCar Syracuse: Was working on getting that tied together, and especially just seeing how much we could automate in turn. Well, there are two pieces. Number one was how much we could automate in terms of
+
+108
+00:13:56.370 --> 00:14:08.040
+SpinCar Syracuse: Pulling information from from leads in Salesforce or I guess opportunities. I was getting confused. But some. But basically, pulling that information from the lead and so
+
+109
+00:14:09.540 --> 00:14:13.950
+SpinCar Syracuse: You know, we're filling out as much as we can in Salesforce and that way.
+
+110
+00:14:15.300 --> 00:14:22.710
+SpinCar Syracuse: The rep hopefully has to fill out as little as possible while they're actually talking with the with the client and they're able to kind of send out
+
+111
+00:14:24.930 --> 00:14:31.680
+SpinCar Syracuse: You know, send it out with this little kind of manual tweaking as possible. So trying to have all that that information kind of sync up and pulling from the lead.
+
+112
+00:14:34.020 --> 00:14:34.890
+SpinCar Syracuse: And then
+
+113
+00:14:36.720 --> 00:14:49.170
+SpinCar Syracuse: The other piece would be kind of tying that back in so you know once once we do get a signature than making sure that that's associated with the correct account in Salesforce and or the correct
+
+114
+00:14:52.200 --> 00:14:55.020
+SpinCar Syracuse: Entry. I don't know, Salesforce very well if you couldn't
+
+115
+00:14:59.100 --> 00:15:03.960
+SpinCar Syracuse: Let's, um, but, yeah. So, so, yeah, pretty much, making sure that that
+
+116
+00:15:05.130 --> 00:15:11.850
+SpinCar Syracuse: As much as possible, our folks can kind of live in Salesforce and have to do kind of his little manual tweaking as possible.
+
+117
+00:15:13.050 --> 00:15:17.760
+Mike Melton: And what was your experience with the truck with the trial like send out
+
+118
+00:15:19.020 --> 00:15:20.040
+Mike Melton: A test document.
+
+119
+00:15:20.160 --> 00:15:24.300
+SpinCar Syracuse: Yeah, yeah, I'd say overall it was quite good.
+
+120
+00:15:25.620 --> 00:15:26.490
+SpinCar Syracuse: I think
+
+121
+00:15:28.830 --> 00:15:33.840
+SpinCar Syracuse: Let's see. I think there were a couple things that so so I tend to be kind of OCD when it comes to
+
+122
+00:15:35.130 --> 00:15:46.410
+SpinCar Syracuse: You know, putting fields in the document itself. And so like if I've got a checkbox in there and I've got, you know, a box in the document that I'm putting it inside then it darn well better be centered in that box.
+
+123
+00:15:47.520 --> 00:15:57.870
+SpinCar Syracuse: You know I hate it when you see like, okay, they got it like almost in the right spot but but not quite in the right spot or like, you know, so you got a line of checkboxes, and they're just kind of haphazardly throw it on there.
+
+124
+00:15:59.220 --> 00:16:03.420
+SpinCar Syracuse: Dad drives me absolutely crazy. And so I went
+
+125
+00:16:05.130 --> 00:16:16.410
+SpinCar Syracuse: You know, initially I was actually going really crazy was like, okay, getting everything uniform and that I found kind of some of your guys's tools for, like, oh line stuff up vertically and then you know shift all this stuff together as a group and
+
+126
+00:16:18.570 --> 00:16:26.820
+SpinCar Syracuse: And then as well. I especially liked that I could kind of bulk edit the look and feel of multiple fields simultaneously. So
+
+127
+00:16:27.690 --> 00:16:31.740
+SpinCar Syracuse: Like I found initially that the font size was too small, just by by default.
+
+128
+00:16:32.550 --> 00:16:36.690
+SpinCar Syracuse: With the boxes that I was driving dragging on there at least compared to the to the text on the rest of the document.
+
+129
+00:16:37.140 --> 00:16:43.410
+SpinCar Syracuse: And so I was initially going through field by field like okay, change the font change the size rinse and repeat.
+
+130
+00:16:44.370 --> 00:16:59.010
+SpinCar Syracuse: But then I found. Oh no, I can actually highlight multiple fields and it just as those parameters you know that the font, the size the weight and so on for multiple things. And that was such a time saver. I always so glad to find that
+
+131
+00:17:01.590 --> 00:17:21.840
+SpinCar Syracuse: The, the only piece that I felt like maybe could have been better was just in terms of detection of what's there. So that was, that was one big thing where what I was also trying out I was also doing, excuse me, a trial of Adobe signs enterprise. At the same time, and
+
+132
+00:17:22.950 --> 00:17:37.620
+SpinCar Syracuse: Found that Adobe was really good with detecting what was there. So like they basically had a button like kind of auto populate stuff and and they got a lot of it. I mean, they actually they got more than I had expected.
+
+133
+00:17:38.670 --> 00:17:46.470
+SpinCar Syracuse: So I was impressed with their ability to auto detect, like, Oh, there's a signing line here, there's a name line here, there's, you know, just different stuff which which I thought was very good.
+
+134
+00:17:47.910 --> 00:17:54.360
+SpinCar Syracuse: But then they kind of shot themselves in the foot, because I couldn't like do that bulk editing for for
+
+135
+00:17:55.770 --> 00:18:03.000
+SpinCar Syracuse: You know, the, the, like fonts and stuff like that, you know, I would try to select multiple fields and edit stuff and you just couldn't do it.
+
+136
+00:18:04.140 --> 00:18:18.510
+SpinCar Syracuse: And so that was immensely frustrating because even though it started out great with like, oh, huge time saver. With all this stuff pre populating I ended up having to manually tweak stuff. Anyway, just because it wasn't clean enough with the auto populating of stuff so
+
+137
+00:18:20.490 --> 00:18:36.900
+SpinCar Syracuse: You know, different, different strengths, but but i think i liked your guys's experience better because first of all it's not Adobe's interface which needed to be updated. I mean literally a decade ago, and still hasn't I found that to be consistent with a lot of their products.
+
+138
+00:18:38.550 --> 00:18:38.940
+SpinCar Syracuse: And
+
+139
+00:18:40.350 --> 00:18:45.570
+SpinCar Syracuse: The See I look and feel wise, I think you guys were much better. And then just for
+
+140
+00:18:46.890 --> 00:18:52.980
+SpinCar Syracuse: The, the overall user experience, creating the template. I thought that was was phenomenal.
+
+141
+00:18:57.810 --> 00:19:06.870
+Mike Melton: So you agree. Yeah. Can you tell me a little bit more about template creation that after you send your initial document or was that one of your earlier tasks or I
+
+142
+00:19:06.900 --> 00:19:14.190
+SpinCar Syracuse: Think that was actually the first thing I did was, was template creation, because I think that was the first piece.
+
+143
+00:19:15.480 --> 00:19:24.720
+SpinCar Syracuse: Because I had a kind of a test document to work with was sent kind of our standard agreement by by our sales manager and so
+
+144
+00:19:25.980 --> 00:19:27.300
+SpinCar Syracuse: You know, wanted to see
+
+145
+00:19:28.650 --> 00:19:33.870
+SpinCar Syracuse: Just from the get go, you know how it can template eyes stuff and I hate repeating
+
+146
+00:19:34.590 --> 00:19:46.320
+SpinCar Syracuse: The same thing when it comes to like upload it. So I didn't want to upload a document specify all this stuff, send it out and then find ok and now I have to do it all over again to make the template. So let's just skip that and go straight to the template
+
+147
+00:19:48.150 --> 00:19:48.690
+Mike Melton: So,
+
+148
+00:19:49.950 --> 00:19:58.620
+Mike Melton: Okay, so the first thing you did was you created the template did were you asked to create a template, or is that that's something you figured out on your own and then. So how did you discover that
+
+149
+00:20:00.000 --> 00:20:01.410
+SpinCar Syracuse: I'm you're
+
+150
+00:20:02.850 --> 00:20:15.810
+SpinCar Syracuse: Trying to remember. I think I mean looking into to the ability for how it worked with templates that was something that I was tasked with just from the get go. So I knew that was going to be a piece that would have to look at, regardless
+
+151
+00:20:17.460 --> 00:20:25.020
+SpinCar Syracuse: And as far as, as in this specific trial, what I did with that that was entirely of my own volition just signing in.
+
+152
+00:20:26.370 --> 00:20:41.280
+SpinCar Syracuse: You know, okay, what's, what's the first thing you do when you get into a new piece of software. And so in my case it was it was, you know, I saw. Okay. There's a button at the top that says template. And so, or templates. So let's go there and let's see what that management is like
+
+153
+00:20:47.010 --> 00:20:49.110
+Mike Melton: Cool. I'm glad you had a good experience.
+
+154
+00:20:51.240 --> 00:20:51.900
+Mike Melton: Besides,
+
+155
+00:20:53.280 --> 00:20:54.060
+Mike Melton: Besides the
+
+156
+00:20:55.350 --> 00:20:56.430
+Mike Melton: The detection.
+
+157
+00:20:58.020 --> 00:21:09.330
+Mike Melton: And some of the earlier you mentioned something about a tags not aligning correctly, is it that you align things and then once it was signed the
+
+158
+00:21:10.860 --> 00:21:13.890
+Mike Melton: The responses from the recipient.
+
+159
+00:21:13.920 --> 00:21:19.200
+SpinCar Syracuse: No, this was this was purely me so. So actually, before I even sent it out to anybody else. I first sent
+
+160
+00:21:19.710 --> 00:21:24.120
+SpinCar Syracuse: I sent documents out to myself. So I created the template. Got it.
+
+161
+00:21:24.390 --> 00:21:38.670
+SpinCar Syracuse: I mean, I always in anything I do just from even the rough draft. I try to keep stuff lined up like that. Just because I know it's going to bother me later. So I got it kind of my best guests on stuff lined up on the template and i think i think that's actually
+
+162
+00:21:39.990 --> 00:21:59.280
+SpinCar Syracuse: That's something that hadn't really occurred to me before, but it can be difficult when what you see is not exactly what you get. It's close, but it's not exactly what you get. So like, you know, say I designate a field going over a line that's baked into the document.
+
+163
+00:22:01.350 --> 00:22:13.920
+SpinCar Syracuse: What I see is not necessarily what I get in that the the stock text in the box that I was putting on there, you know, just the filler text isn't precisely where the filled out text would line up.
+
+164
+00:22:15.510 --> 00:22:31.230
+SpinCar Syracuse: Or or like with the signature field, then, you know, there's just the box where cases where the signatures going, but I can't see exactly how that's going to interact with the line on there as far as how that how much that matters to our existing staff, I suspect. Not a whole lot.
+
+165
+00:22:32.310 --> 00:22:42.840
+SpinCar Syracuse: But for me, I'm also I've been a graphic designer for a long time. Just freelance. And so there's just something to having
+
+166
+00:22:43.350 --> 00:22:53.310
+SpinCar Syracuse: Kind of a unified experience where it doesn't look like it was just cobbled together thrown on there where, you know, it looks like. Okay. They took the care to actually make the fields, line up exactly where they're supposed to go.
+
+167
+00:22:53.760 --> 00:22:59.010
+SpinCar Syracuse: On this document like you were filling it out in person. And that's how I always try to design stuff. So in this case,
+
+168
+00:22:59.520 --> 00:23:08.310
+SpinCar Syracuse: I did the best I could with lightning stuff up sent out a test copy to myself went through kind of filled it out signed it and then saw the finished PDF
+
+169
+00:23:08.790 --> 00:23:17.340
+SpinCar Syracuse: And then saw okay there's some stuff that's not quite lining up the way that I'd like it to him. So then I went back through the template and tweaked it and tried it again.
+
+170
+00:23:17.730 --> 00:23:28.650
+SpinCar Syracuse: And, you know, okay, again, looking at the finished PDF. Alright, that's better. But, you know, could still make this font size larger can still shift this field over to match with this line better
+
+171
+00:23:30.120 --> 00:23:32.130
+SpinCar Syracuse: So a lot of a lot of trial and error.
+
+172
+00:23:33.480 --> 00:23:33.960
+Mike Melton: Yeah.
+
+173
+00:23:35.250 --> 00:23:42.450
+Mike Melton: It sounds like I'm the same way, like everything to be like, you know, kind of like lined up perfectly. In the final product.
+
+174
+00:23:42.990 --> 00:23:47.490
+SpinCar Syracuse: Yeah, it's, it's the kind of thing that that a lot of people don't pay any attention to and that's fine.
+
+175
+00:23:48.600 --> 00:23:54.480
+SpinCar Syracuse: But I just as as a designer. I'm always trying to design an interface that feels like.
+
+176
+00:23:55.860 --> 00:24:01.380
+SpinCar Syracuse: You know, it feels like care was taken. It feels like there's nothing out of place because for the people that doesn't matter for well
+
+177
+00:24:01.950 --> 00:24:13.920
+SpinCar Syracuse: It'll still look more professional and for the people that it does matter for then everything lining up. I mean, really, if they don't notice the alignment of stuff that is exactly what you want, you know,
+
+178
+00:24:14.790 --> 00:24:20.010
+SpinCar Syracuse: If that doesn't interfere at all what they're thinking about it. You know, I do a lot of work in in
+
+179
+00:24:21.270 --> 00:24:28.650
+SpinCar Syracuse: Audio, video lighting, that kind of thing. And the perfect event is the one where you don't think about the sound guy.
+
+180
+00:24:29.130 --> 00:24:32.130
+SpinCar Syracuse: You know, if you notice the sound guy. It's because there's a problem.
+
+181
+00:24:32.610 --> 00:24:41.670
+SpinCar Syracuse: I mean, maybe you'll think like, Oh, hey. The sound is really good and and maybe if you're in the tech industry, you might think about, like, oh, this this tech is really good at his job, but most of the time.
+
+182
+00:24:42.060 --> 00:24:57.480
+SpinCar Syracuse: The only time you actually notice the sound guy is when there's an issue. And so this isn't going to thing with with this alignment where were the only time you really, you know, you think about, like, oh, the setup on that is, if it's off. Yeah.
+
+183
+00:24:58.110 --> 00:25:01.260
+Mike Melton: I got i i agree. I'm the same way.
+
+184
+00:25:03.180 --> 00:25:13.380
+Mike Melton: As the to explore how did you learn about these features. Did you, you said you did a lot of trial and error, but seeing around with the with the tags.
+
+185
+00:25:15.060 --> 00:25:19.110
+Mike Melton: How did you learn how to like set up the template or any other features.
+
+186
+00:25:19.260 --> 00:25:32.250
+SpinCar Syracuse: A walk me through it pretty well actually I just went into templates, you know, create new template. All right, upload the documents straightforward and and then from there you know designate. All right, how many signers, what are those roles going to be
+
+187
+00:25:33.570 --> 00:25:38.610
+SpinCar Syracuse: I mean, the, the, the user friendliness. Overall, I'd say was really good.
+
+188
+00:25:40.710 --> 00:25:52.470
+SpinCar Syracuse: Yeah, I mean, at least for me, I guess I'm also the kind of person that's used to, you know, just kind of finding my way around programs because I have to support software, all the time that I maybe have never even seen before, but
+
+189
+00:25:53.340 --> 00:25:59.310
+SpinCar Syracuse: You know, there's a there's a great flow chart from X KC D. It's an online web comic that goes through, you know,
+
+190
+00:25:59.760 --> 00:26:09.390
+SpinCar Syracuse: Texts don't don't really know every single piece of software out there, but most of the time what we do when we evaluate stuff. Is it consists of okay look for a button that says it does what you want to do.
+
+191
+00:26:09.840 --> 00:26:20.400
+SpinCar Syracuse: And okay, you don't see a button that says that. All right, look for a button that looks like it might lead to a button that says it does what you want to do and kind of working through that and that's that's just kind of naturally how I think about it.
+
+192
+00:26:21.630 --> 00:26:34.170
+SpinCar Syracuse: So as far as is especially like the template type thing. And now that was just, okay, look at what's on the page and and you know. Does it, does it look like something that I want to do or or even does it look interesting
+
+193
+00:26:36.540 --> 00:26:46.950
+SpinCar Syracuse: Like I saw some of the validation features that you know, that was something that was not at all what I was tasked with but I saw there's there's validation for these fields on there. I could make that really simple.
+
+194
+00:26:47.610 --> 00:26:54.900
+SpinCar Syracuse: Let's explore what I can do with that you know how how specific. Can I get with you know what characters are allowed in these fields.
+
+195
+00:26:56.610 --> 00:26:57.720
+SpinCar Syracuse: And and so
+
+196
+00:26:58.890 --> 00:27:05.760
+SpinCar Syracuse: Yes, both looking for specifically what I'm looking for. And, and also just what's interesting, you know what, what's cool
+
+197
+00:27:07.800 --> 00:27:12.210
+Mike Melton: Now that you go and consider any of DocuSign plans.
+
+198
+00:27:13.800 --> 00:27:20.010
+SpinCar Syracuse: Are you talking like the the different different tiers as far as like enterprise versus professional or
+
+199
+00:27:21.180 --> 00:27:23.460
+SpinCar Syracuse: Yes, so I did take a look
+
+200
+00:27:24.600 --> 00:27:25.440
+Mike Melton: Looking at it.
+
+201
+00:27:26.490 --> 00:27:27.030
+Mike Melton: Looking at
+
+202
+00:27:28.380 --> 00:27:33.240
+Mike Melton: Wanted to see. I'm just trying to see how much you remember from it because memorability
+
+203
+00:27:33.510 --> 00:27:43.650
+Mike Melton: Is that we want to like get a, get an idea of to remember what plans you considered and what it was about those plans and then we'll go look at them and
+
+204
+00:27:46.530 --> 00:27:47.580
+Mike Melton: See how much you remember
+
+205
+00:27:48.210 --> 00:28:04.200
+SpinCar Syracuse: Yes. So I remember seeing four levels on there are at least four primary tiers. But then there was also a thing for like enterprise, talk to us, you know, because because enterprise plans, it can can be so individual depending on what the need is
+
+206
+00:28:05.820 --> 00:28:11.850
+SpinCar Syracuse: I remember for tears. I remember. I don't remember the exact names.
+
+207
+00:28:13.170 --> 00:28:19.230
+SpinCar Syracuse: But I know there was like a kind of basic like okay this is meant for one individual.
+
+208
+00:28:20.790 --> 00:28:26.040
+SpinCar Syracuse: You know, pretty, pretty basic features. I don't think there was any kind of white labeling any of that going on.
+
+209
+00:28:27.300 --> 00:28:31.380
+SpinCar Syracuse: You had your standard, which was
+
+210
+00:28:32.970 --> 00:28:38.340
+SpinCar Syracuse: Maybe it was small business or maybe it was standard and small business. I'm blanking horribly on these terms, but
+
+211
+00:28:39.870 --> 00:28:45.810
+SpinCar Syracuse: Uh, you know, it was effectively one to four smallest to largest.
+
+212
+00:28:48.390 --> 00:28:56.850
+SpinCar Syracuse: I remember professional, which was, I think it was like minimum of 10 accounts or something like that and
+
+213
+00:28:58.530 --> 00:29:06.750
+SpinCar Syracuse: Actually know what I'm remembering that wrong says so much comparison blurring together in my head. I took notes on all this stuff. And that way I didn't, I didn't forget. A lot of it, but
+
+214
+00:29:10.740 --> 00:29:14.160
+SpinCar Syracuse: Shoot. Yeah, I remember for them. And I remember enterprise basically saying
+
+215
+00:29:15.540 --> 00:29:24.930
+SpinCar Syracuse: Actually. Okay, you know what, I think it was coming clear now. I think it was standard small business pro and enterprise and I think
+
+216
+00:29:25.830 --> 00:29:35.130
+SpinCar Syracuse: Standard was like something like 15 bucks a month, maybe 20 bucks a month, small business. I forget because I wasn't really terribly interested in that it was mainly professional that I was looking at
+
+217
+00:29:36.510 --> 00:29:39.930
+SpinCar Syracuse: Professional was like 40 maybe 45
+
+218
+00:29:41.730 --> 00:29:54.150
+SpinCar Syracuse: Monthly and professional did offer a lot more in terms of like customization of look and feel, you know, uploading your logo on there so like sort of a little bit of white labeling
+
+219
+00:29:56.490 --> 00:29:57.930
+SpinCar Syracuse: And then enterprise.
+
+220
+00:29:59.190 --> 00:30:08.970
+SpinCar Syracuse: Basically boiled down to if you need integrations. And if you're doing lots of big stuff where like perhaps number of users isn't the best
+
+221
+00:30:09.360 --> 00:30:22.380
+SpinCar Syracuse: Thing to go by for billing, you know, instead of going by like envelope pricing. So, more or less, you see enterprise and contact us for to talk about pricing and stuff. So I contacted you guys to talk about pricing and stuff.
+
+222
+00:30:22.800 --> 00:30:26.790
+Mike Melton: Okay, let's try going over to the page and
+
+223
+00:30:29.910 --> 00:30:31.380
+SpinCar Syracuse: Yeah, let's see. See how I did.
+
+224
+00:30:33.090 --> 00:30:34.080
+Mike Melton: Pretty good.
+
+225
+00:30:35.790 --> 00:30:47.670
+SpinCar Syracuse: Okay, I remembered four sections. That's a so yeah advanced solutions. He had more or less enterprise. But, uh, okay so personal standard business route was thinking standard small business pro and that yeah okay
+
+226
+00:30:50.430 --> 00:30:52.950
+Mike Melton: So what was the first thing you considered on this page.
+
+227
+00:30:53.970 --> 00:30:54.810
+SpinCar Syracuse: Ah,
+
+228
+00:30:57.060 --> 00:31:09.750
+SpinCar Syracuse: Good question. I knew I was more focused on this side. At the time I was, I think the first thing I was looking at was just pricing wise, just because we were kind of figuring out some budgeting stuff for 2020
+
+229
+00:31:10.950 --> 00:31:24.450
+SpinCar Syracuse: And so ah yeah I think I was thinking about like overall our number of users and kind of cost per user per month and then multiplying that out and and just kind of coming up with
+
+230
+00:31:24.810 --> 00:31:32.010
+SpinCar Syracuse: All right, if we went with it with this pro plan because presumably, we're going to need the features that are available in it for any kind of integration.
+
+231
+00:31:32.370 --> 00:31:38.550
+SpinCar Syracuse: Got it, because actually I I knew from the get go. We were kind of looking at the Salesforce integration piece. So when I went down through this list and saw
+
+232
+00:31:40.200 --> 00:31:41.070
+SpinCar Syracuse: Integration.
+
+233
+00:31:42.210 --> 00:31:44.790
+SpinCar Syracuse: Was integrations connectors
+
+234
+00:31:47.040 --> 00:31:55.770
+SpinCar Syracuse: You know, and especially once I saw hovering over the text. The, the Salesforce piece mentioned there. Then I knew we were probably going to be looking at this, so the call for more information.
+
+235
+00:31:57.210 --> 00:32:14.430
+SpinCar Syracuse: And but then pricing wise my estimate was roughly based around where business Pro is priced but with the clear caveat that I haven't talked to their sales guy yet. So in terms of enterprise pricing. I have no idea. But, you know, at least this this hopefully gives us a ballpark.
+
+236
+00:32:28.530 --> 00:32:28.980
+Mike Melton: Um,
+
+237
+00:32:30.870 --> 00:32:33.840
+Mike Melton: And how many, how many users do you think you're going to have
+
+238
+00:32:35.160 --> 00:32:40.140
+SpinCar Syracuse: A that number has varied because I keep on getting different answers from our Sales, VP.
+
+239
+00:32:43.410 --> 00:32:47.610
+SpinCar Syracuse: So his thought initially, what was it,
+
+240
+00:32:49.530 --> 00:32:54.240
+SpinCar Syracuse: I think he was initially telling me somewhere around 12 users.
+
+241
+00:32:57.150 --> 00:33:06.030
+SpinCar Syracuse: But then in further conversation. Well, okay. No, it's actually more like 15 and then further conversation. Okay.
+
+242
+00:33:06.690 --> 00:33:20.220
+SpinCar Syracuse: Well I or no i think i think i think that 15 number was what I came to your sales staff with initially and then they were also asking about like estimated number of agreements or whatever. And so he told me 1000 and then
+
+243
+00:33:21.570 --> 00:33:31.710
+SpinCar Syracuse: You know, had initial conversations with you guys the sales staff and found out that okay with enterprise pricing. We can potentially do it by the envelope and that actually works out a lot better than by the users. Alright. Awesome.
+
+244
+00:33:32.520 --> 00:33:41.970
+SpinCar Syracuse: That's actually a huge load off my mind because we were looking at significantly more if we were going by the user, because we have a relatively small number of envelopes per user. But
+
+245
+00:33:44.430 --> 00:33:46.950
+SpinCar Syracuse: Just on a relatively larger number of users.
+
+246
+00:33:48.570 --> 00:33:55.680
+SpinCar Syracuse: And so yeah, then I think I came back to him. And then in further talking. It was like okay actually users. I don't really know.
+
+247
+00:33:56.310 --> 00:34:11.640
+SpinCar Syracuse: Probably around that 15 number but potentially more since it's by the envelope, rather than by the user for that. And so we can you know maybe work out something where, where some of our other of our employees can make use of it to for more than just agreements with clients.
+
+248
+00:34:13.290 --> 00:34:13.710
+SpinCar Syracuse: And
+
+249
+00:34:14.880 --> 00:34:24.300
+SpinCar Syracuse: Then talking numbers again, then it was like oh actually envelope is we really only need like 500 and then further talking. Oh no. Actually we do need more like 1000 and
+
+250
+00:34:24.840 --> 00:34:39.360
+SpinCar Syracuse: So those numbers go all over the place and I pretty much just try to take whatever the highest number is that they tell me and make my estimates based on that because I they keep on coming going back and forth with what do numbers actually look like.
+
+251
+00:34:42.750 --> 00:34:43.620
+Mike Melton: So you really
+
+252
+00:34:44.640 --> 00:34:53.070
+Mike Melton: Is it safe to say that you really didn't consider the the attributes of the personal standard business pro plans that much out for you.
+
+253
+00:34:53.790 --> 00:35:00.000
+SpinCar Syracuse: I think what's a once identified that Salesforce piece that was the biggest thing. I mean, I'm sure. I glanced over all of them.
+
+254
+00:35:00.990 --> 00:35:10.950
+SpinCar Syracuse: You know, catching especially stuff like personalized branding, you know, stuff that even though they may not have told me they were looking for. I knew they'd probably be looking for.
+
+255
+00:35:13.050 --> 00:35:22.920
+SpinCar Syracuse: One of the other pieces. Actually I one of the other pieces. They were looking for was adjustments. So, like, say you fill out.
+
+256
+00:35:23.310 --> 00:35:29.220
+SpinCar Syracuse: You know, so we got like a standard our standard agreement that has like different tech checkboxes depending on what product you go with
+
+257
+00:35:29.670 --> 00:35:42.120
+SpinCar Syracuse: And different numbers you can kind of put in for those products and so say you send it out and end up talking through stuff. And, oh no, actually, we want a number more like this. Okay.
+
+258
+00:35:42.810 --> 00:35:55.110
+SpinCar Syracuse: So instead of, you know, we'd prefer instead of having to send a whole new copy then being able to. Okay, let's actually just edit the existing one. Not have to fill everything back out and send it back out and so
+
+259
+00:35:56.340 --> 00:35:59.790
+SpinCar Syracuse: Um, I was looking for some kind of
+
+260
+00:36:01.980 --> 00:36:19.050
+SpinCar Syracuse: I guess what would negotiation, not really negotiation feature but like some kind of edit editing feature that I was reasonably certain wouldn't be there because that that's not something that I've seen on anything else but I always keep an eye out for it, just in case.
+
+261
+00:36:21.390 --> 00:36:21.990
+SpinCar Syracuse: So,
+
+262
+00:36:23.310 --> 00:36:25.230
+SpinCar Syracuse: Long story short, too late.
+
+263
+00:36:26.310 --> 00:36:39.150
+SpinCar Syracuse: Then yes I did look them over. But once I saw especially like the the branding piece and then then even more so the integration with Salesforce than that, that more or less settled me on. I'm going to have to call
+
+264
+00:36:40.950 --> 00:36:44.610
+Mike Melton: Any of these features that are listed on that page stand out to you.
+
+265
+00:36:46.740 --> 00:36:50.160
+SpinCar Syracuse: Um, user user numbers did
+
+266
+00:36:51.690 --> 00:37:01.560
+SpinCar Syracuse: Sit like single user only versus 523 users online for more than three years just call that stood out to me that was again something that kind of drew me to check out the enterprise thing.
+
+267
+00:37:03.300 --> 00:37:05.580
+SpinCar Syracuse: Send documents for E signature.
+
+268
+00:37:06.930 --> 00:37:07.560
+SpinCar Syracuse: De
+
+269
+00:37:09.120 --> 00:37:14.220
+SpinCar Syracuse: I mean, I don't even think I read that just because, obviously, that's what I'm looking for.
+
+270
+00:37:16.050 --> 00:37:29.730
+SpinCar Syracuse: The I think maximum numbers, I would have been looking for. So like five a month, obviously wasn't going to work, but I'm sure I probably already wasn't looking at, at the point that I saw single user. So I didn't really consider that after that.
+
+271
+00:37:31.140 --> 00:37:35.940
+Mike Melton: How many documents. Do you think that you can send and with the with the other two plans.
+
+272
+00:37:36.930 --> 00:37:39.540
+SpinCar Syracuse: A. The other two I have
+
+273
+00:37:41.100 --> 00:37:42.240
+SpinCar Syracuse: A little idea.
+
+274
+00:37:43.560 --> 00:37:50.010
+SpinCar Syracuse: I want to say to him, it was somewhere around 150 per user. But I forget what tier that was at
+
+275
+00:37:52.830 --> 00:37:53.970
+SpinCar Syracuse: That might have been standard
+
+276
+00:37:56.550 --> 00:37:59.010
+SpinCar Syracuse: Are simply cannot even were even came up with that number.
+
+277
+00:38:00.390 --> 00:38:04.170
+Mike Melton: I know you said mentioned that you use the little mouse over tool to
+
+278
+00:38:05.010 --> 00:38:05.340
+Oh, yeah.
+
+279
+00:38:07.710 --> 00:38:10.350
+Mike Melton: Did you use it at all for the these features.
+
+280
+00:38:15.330 --> 00:38:25.800
+SpinCar Syracuse: Probably. I'm sure that I did for especially like integrations and connectors, because that's how I found out about Salesforce integration existing in the first place.
+
+281
+00:38:30.960 --> 00:38:36.570
+SpinCar Syracuse: Yeah, I'm sure. I probably did just kind of skimming for for details.
+
+282
+00:38:39.870 --> 00:38:47.880
+SpinCar Syracuse: That's that's also one of the reasons that I generally prefer to do my research over for new products on the on my laptop, rather than
+
+283
+00:38:48.420 --> 00:38:57.720
+SpinCar Syracuse: Like on my cell phone or on a tablet or something like that is having, you know, kind of full hover over support larger screen and just see ability to compare stuff better
+
+284
+00:38:59.970 --> 00:39:03.420
+Mike Melton: And what would you say is the advantage to add any user
+
+285
+00:39:05.520 --> 00:39:07.080
+SpinCar Syracuse: To sorry. The advantage to
+
+286
+00:39:07.440 --> 00:39:10.050
+Mike Melton: Having multiple users.
+
+287
+00:39:11.340 --> 00:39:23.880
+SpinCar Syracuse: Oh, gotcha. I'm just the ability for our sales people to send out stuff individually, rather than trying to share a single account which probably goes against Terms of Service anyway. But people make bad decisions.
+
+288
+00:39:26.970 --> 00:39:28.020
+Mike Melton: Okay, and
+
+289
+00:39:29.790 --> 00:39:45.990
+Mike Melton: I am that that is all the questions that I have concerning concerning this, I do have a colleague online Christine and I did want to ask her if she if she had any questions that she would like to ask
+
+290
+00:39:48.510 --> 00:39:53.280
+Christine Sugimoto: Thanks, Mike. I don't have any questions. So, um, but thank you for your time.
+
+291
+00:39:55.410 --> 00:40:02.040
+Mike Melton: So is there anything anything Mike you'd like to tell us before I stop recording
+
+292
+00:40:02.670 --> 00:40:12.510
+SpinCar Syracuse: Sure, um, the only thing that really stood out to me as, like, oh yeah, this could definitely be better.
+
+293
+00:40:13.830 --> 00:40:18.630
+SpinCar Syracuse: Were or maybe not the only at least the biggest thing that started me as this could be better was
+
+294
+00:40:20.820 --> 00:40:34.110
+SpinCar Syracuse: When testing, then it wasn't the most intuitive thing when I was building the template because I initially built it for one cider because we're kind of used to with Adobe sign. We're kind of used to
+
+295
+00:40:35.520 --> 00:40:43.470
+SpinCar Syracuse: You put these fields in the template and then you designate like signature and date for the person ultimately signing it but then the rest of it's all filled out by our reps.
+
+296
+00:40:44.610 --> 00:40:53.100
+SpinCar Syracuse: And so really kind of having a built a Lego that these are filled out by the reps and before this document gets sent out. Then we pre fill it and go from there.
+
+297
+00:40:54.480 --> 00:41:01.230
+SpinCar Syracuse: Whereas with with DocuSign, that it was no you actually designate the rep as the first signer
+
+298
+00:41:01.920 --> 00:41:07.530
+SpinCar Syracuse: And then they can fill out all that stuff, you know, so you got it all template eyes in the first place, working from that template.
+
+299
+00:41:07.980 --> 00:41:20.190
+SpinCar Syracuse: fill that out with a specific products that the client is buying and then send that from there to the client. So wasn't the most intuitive as far as that goes. And then I figured it out pretty quickly.
+
+300
+00:41:21.720 --> 00:41:28.470
+SpinCar Syracuse: And once I did figure it out, then it was like, all right, so, you know, I set up the template. And then I'm going to go send a test documents so
+
+301
+00:41:29.550 --> 00:41:39.690
+SpinCar Syracuse: Designate myself as the first recipient and then client is the second recipient. And then I just fill it out myself. From there, that's where I think Adobe sign had
+
+302
+00:41:40.440 --> 00:41:49.290
+SpinCar Syracuse: Kind of a nice flow to it because I never had to leave that tab. Before I sent it to the client or well in this case test plan, but some
+
+303
+00:41:51.270 --> 00:42:02.670
+SpinCar Syracuse: You know with with DocuSign, and I had to designate myself as the first recipient. Send it going out my email, click the link, or at least go into my DocuSign inbox either or and
+
+304
+00:42:03.240 --> 00:42:14.790
+SpinCar Syracuse: Fill it out from there. And it was kind of, it's as far as actual time taken. It's like maybe five seconds. It's not a huge deal, but just in terms of of
+
+305
+00:42:15.900 --> 00:42:19.560
+SpinCar Syracuse: Kind of the the flow of the experience than having
+
+306
+00:42:20.610 --> 00:42:32.430
+SpinCar Syracuse: Having the at like a pre fill option where before you even send it out in the first place. You know, you have that that opportunity to pre select stuff that would be, I think, improve the experience
+
+307
+00:42:34.110 --> 00:42:39.270
+Mike Melton: For one kind of what were some examples in some of the fields that you were
+
+308
+00:42:40.500 --> 00:42:43.920
+Mike Melton: Filling out yourself, where you had to put yourself as the recipient.
+
+309
+00:42:45.180 --> 00:42:47.040
+SpinCar Syracuse: A in this case.
+
+310
+00:42:48.840 --> 00:42:51.030
+SpinCar Syracuse: It was almost everything other than the
+
+311
+00:42:52.290 --> 00:42:58.560
+SpinCar Syracuse: Almost everything other than like the actual client signature date. And I think some of their info as far as like address and that
+
+312
+00:42:59.220 --> 00:43:07.500
+SpinCar Syracuse: But like we have, you know, we get information as far as like, all right. You know how you know we're working with dealerships so. All right. How many, how many rooftops in this dealership and
+
+313
+00:43:08.790 --> 00:43:23.310
+SpinCar Syracuse: You know who's our main contact for this, and what are you know what products of ours. Are they buying. How much are they paying for each of them, you know, how is this agreement structured and that's information that we all we pre fill before we send it to the client for signature.
+
+314
+00:43:25.200 --> 00:43:40.920
+SpinCar Syracuse: But information that at least as far as I can tell, I couldn't pre fill out before I sent it out unless it was like hard baked into the document. You know, so it kind of couldn't work with that that whole template system of keeping it flexible for each use.
+
+315
+00:43:40.920 --> 00:43:44.220
+SpinCar Syracuse: Case and also not have to
+
+316
+00:43:44.250 --> 00:43:47.730
+Christine Sugimoto: Kind of sort of pre fill myself. Yeah.
+
+317
+00:43:47.760 --> 00:43:53.100
+Mike Melton: Were there. Was there any reason why you couldn't use the text fields to do that.
+
+318
+00:43:57.900 --> 00:43:58.560
+SpinCar Syracuse: I'm blanking
+
+319
+00:44:01.740 --> 00:44:09.090
+SpinCar Syracuse: So from what I remember. Anyway, and and perhaps this is incorrect, as I'm sure I probably found this information on a forum or something like that.
+
+320
+00:44:11.250 --> 00:44:13.590
+SpinCar Syracuse: But from, from what I remember seeing
+
+321
+00:44:14.730 --> 00:44:30.150
+SpinCar Syracuse: I would have had to specifically drag like a text box that I'm putting text into like not a text box for, like, this is what the signer is filling out but a text box like with just hard text in it. Put that in there and then send it from there and
+
+322
+00:44:32.010 --> 00:44:34.230
+SpinCar Syracuse: I was really more looking
+
+323
+00:44:35.400 --> 00:44:37.530
+SpinCar Syracuse: To template eyes so that
+
+324
+00:44:40.890 --> 00:44:45.570
+SpinCar Syracuse: So that with each document I wouldn't have to go dragging over fields there because they're already there in the template.
+
+325
+00:44:47.100 --> 00:44:49.290
+SpinCar Syracuse: And I in it. Yeah. All I have to do is just punching in number.
+
+326
+00:44:51.060 --> 00:44:56.070
+SpinCar Syracuse: So that that ease of pre filling stuff.
+
+327
+00:44:59.280 --> 00:45:10.260
+SpinCar Syracuse: Yeah, yeah. Because I remember looking it up at first because it seems weird to me that I couldn't send it out. I'd like there was no like existing kind of pre fill option that wasn't just drag over a text box that you fill out.
+
+328
+00:45:13.080 --> 00:45:13.440
+SpinCar Syracuse: And
+
+329
+00:45:15.450 --> 00:45:18.360
+SpinCar Syracuse: Yeah, I'm trying to remember how it came to that conclusion but
+
+330
+00:45:20.070 --> 00:45:27.420
+SpinCar Syracuse: I know, I know I specifically looked into it. I know they specifically said like, yeah, if you have your rep pre fill out stuff then set them as the first signer
+
+331
+00:45:28.680 --> 00:45:29.190
+OK.
+
+332
+00:45:30.810 --> 00:45:35.040
+Mike Melton: OK, so you so you did have some some tech support.
+
+333
+00:45:36.090 --> 00:45:36.540
+Mike Melton: To that
+
+334
+00:45:37.650 --> 00:45:43.740
+SpinCar Syracuse: Uh, yes, yes. I don't think it wouldn't be searching through the knowledge base and and
+
+335
+00:45:45.270 --> 00:45:46.350
+SpinCar Syracuse: Doing a whole lot of Googling
+
+336
+00:45:49.380 --> 00:45:50.940
+Mike Melton: Alright, well thanks so much for your time.
+
+337
+00:45:51.000 --> 00:45:54.480
+Christine Sugimoto: No, I'm sorry. Can I ask a follow up question.
+
+338
+00:45:55.260 --> 00:46:10.140
+Christine Sugimoto: Sure. Um, so when you you mentioned that you take all the data and you fill it into the templates, like what system are you using that has all that information that you are manually typing into the DocuSign document.
+
+339
+00:46:11.910 --> 00:46:13.980
+SpinCar Syracuse: Yo, you mean like where are we getting those numbers from
+
+340
+00:46:14.130 --> 00:46:15.360
+SpinCar Syracuse: Yeah. Oh.
+
+341
+00:46:16.890 --> 00:46:22.950
+SpinCar Syracuse: As far as what system they're coming from. I mean, ultimately we're looking to tie stuff in with Salesforce. So that becomes a non issue anyway.
+
+342
+00:46:24.030 --> 00:46:33.840
+SpinCar Syracuse: But I know the numbers that get put in there are partially in flux, subject to negotiation.
+
+343
+00:46:34.710 --> 00:46:47.820
+SpinCar Syracuse: By our sales people. So, you know, they make a deal like to sell something for you know something different than the retail price, then they'll fill that out manually. So that's why that's set up as a field to fill out manually rather than just a hard number
+
+344
+00:46:48.210 --> 00:46:50.550
+Christine Sugimoto: Okay, got it. Thank you.
+
+345
+00:46:54.840 --> 00:46:57.390
+Mike Melton: Okay, I'm gonna go ahead and stop the recording.
+
+346
+00:46:57.690 --> 00:46:57.930
+Okay.
+

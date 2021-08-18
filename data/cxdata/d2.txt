@@ -1,0 +1,1422 @@
+WEBVTT
+
+1
+00:00:03.330 --> 00:00:06.210
+Mike Melton: And can you tell me something about your business.
+
+2
+00:00:06.720 --> 00:00:15.089
+bstark: Yeah, so we're actually a legal services nonprofit I mentioned we're not. You're like, I don't know if you ask the interview me. I'm not sure for
+
+3
+00:00:16.170 --> 00:00:18.660
+bstark: Are really your target audience at all, but we
+
+4
+00:00:20.610 --> 00:00:24.540
+bstark: We assess low income.
+
+5
+00:00:26.400 --> 00:00:36.480
+bstark: clients who have been underpaid by their employers and I was using the free trial because we have
+
+6
+00:00:37.740 --> 00:00:46.440
+bstark: Such society, a lot of settlement agreements and less with our clients and more the employers are like it's just easier to do it digitally then try to
+
+7
+00:00:47.670 --> 00:00:50.040
+bstark: Go to the employers office. Okay.
+
+8
+00:00:50.940 --> 00:00:52.230
+Mike Melton: And what, what's your role.
+
+9
+00:00:52.710 --> 00:00:53.310
+bstark: I'm an attorney.
+
+10
+00:00:54.360 --> 00:00:59.610
+Mike Melton: And and do you prepare the documents or what what how involved are you
+
+11
+00:01:00.300 --> 00:01:03.450
+bstark: Yeah, yeah, sometimes, sometimes templates.
+
+12
+00:01:05.280 --> 00:01:09.330
+Mike Melton: So are you sending documents or someone else sending them for on your behalf.
+
+13
+00:01:10.080 --> 00:01:15.240
+bstark: I'm doing it. We have three paralegals for 20 plus attorneys. Yeah.
+
+14
+00:01:15.900 --> 00:01:21.420
+bstark: Okay, yeah. I mean, it's like a solution in part because we're understand. Yeah.
+
+15
+00:01:21.780 --> 00:01:33.810
+Mike Melton: Definitely, I can relate to that. And what what caused you to seek an E signature solution you already mentioned that, you know, it's easier, but was there some kind of
+
+16
+00:01:34.920 --> 00:01:37.620
+Mike Melton: Something that led you to like, oh, we really need this or
+
+17
+00:01:38.610 --> 00:01:49.050
+bstark: I just so I communicate a lot with employers by email. Anyways, so I also just want to lock people in so
+
+18
+00:01:50.460 --> 00:01:50.970
+bstark: If I can
+
+19
+00:01:52.020 --> 00:01:56.130
+bstark: Get them decide I don't have to faster. I don't have to think about them like
+
+20
+00:01:57.600 --> 00:01:58.920
+bstark: Burn nagging I'm a deal.
+
+21
+00:01:59.430 --> 00:02:05.220
+Mike Melton: Okay. So kind of like kids don't consume less time to to change their minds.
+
+22
+00:02:05.610 --> 00:02:05.880
+Yeah.
+
+23
+00:02:07.140 --> 00:02:07.560
+bstark: Gotcha.
+
+24
+00:02:07.650 --> 00:02:07.920
+All right.
+
+25
+00:02:21.780 --> 00:02:22.770
+Mike Melton: Please stay with us.
+
+26
+00:03:04.980 --> 00:03:05.490
+Mike Melton: Can you hear me.
+
+27
+00:03:07.380 --> 00:03:07.620
+Mike Melton: Now,
+
+28
+00:03:09.150 --> 00:03:09.810
+Okay.
+
+29
+00:03:13.590 --> 00:03:14.370
+Micheline Chagniot: I can hear you, Mike.
+
+30
+00:03:14.850 --> 00:03:16.590
+Mike Melton: Okay, so we lost
+
+31
+00:03:19.980 --> 00:03:20.910
+Mike Melton: Georgie with us.
+
+32
+00:03:23.880 --> 00:03:25.110
+Mike Melton: We lost George
+
+33
+00:03:27.120 --> 00:03:32.430
+Mike Melton: I have a red cloud with the red.on it. I don't know. I guess that means we're recording
+
+34
+00:03:33.570 --> 00:03:34.770
+Mike Melton: I'm going to pause right. All right.
+
+35
+00:03:36.600 --> 00:03:37.650
+Mike Melton: I'm restarting
+
+36
+00:03:38.790 --> 00:03:49.950
+Mike Melton: To go back to. Can you tell us how you first became aware that you had about ESP signature solutions or that there was some way that you could solve this problem of
+
+37
+00:03:50.610 --> 00:03:59.010
+Mike Melton: You know, accelerating your business a little bit and not not getting giving a, you know, improving the contact with the clients employers.
+
+38
+00:04:03.690 --> 00:04:08.520
+bstark: I don't know. I mean, I don't. I knew that I've noted that DocuSign that no idea. I mean, maybe
+
+39
+00:04:09.540 --> 00:04:15.930
+bstark: I have a mortgage when we close on the mortgage. We use DocuSign, but I don't
+
+40
+00:04:17.100 --> 00:04:17.550
+bstark: I don't
+
+41
+00:04:19.350 --> 00:04:23.190
+bstark: I think I knew about beforehand. But yeah, I think there's maybe the mortgage
+
+42
+00:04:23.520 --> 00:04:34.530
+Mike Melton: Uh huh. So you first became aware of DocuSign as a sign or, um, how did you decide that you want to try to talk you signing in your in this business.
+
+43
+00:04:35.700 --> 00:04:48.690
+bstark: I had a settlement that the guy to specific settlement that I was working on. I just wanted to get it done and I had been communicating with the employer via text and email. Anyways, so it. Yeah, it's just a very like
+
+44
+00:04:51.090 --> 00:04:52.920
+bstark: It's a decision, just based on
+
+45
+00:04:53.970 --> 00:04:56.820
+bstark: It wasn't, it wasn't like it was like
+
+46
+00:04:57.360 --> 00:04:59.700
+Mike Melton: Okay, so it's rather spontaneous.
+
+47
+00:05:00.000 --> 00:05:07.860
+Mike Melton: Yeah, and so you didn't do. I'm assuming, then that you didn't consider any other e signature solutions.
+
+48
+00:05:08.700 --> 00:05:16.740
+bstark: I have since i mean i I've looked at. I don't know what to call sign sign request.
+
+49
+00:05:18.030 --> 00:05:21.870
+bstark: They're sending like there's like this PDF
+
+50
+00:05:24.840 --> 00:05:36.570
+bstark: I don't know, small PDF decide which of these are just like cheaper options side request and small PDF he signed PDF and then hello side I've looked at all of us.
+
+51
+00:05:36.840 --> 00:05:46.320
+Mike Melton: So was it the cost that you did you start investigating the cost of plans and that's what led you to like start investigating other solutions.
+
+52
+00:05:46.590 --> 00:05:52.650
+bstark: Yeah, I mean a DocuSign, I forgot what your pricing model is. But it's like not miss definitely not the cheapest so
+
+53
+00:05:54.030 --> 00:05:55.950
+bstark: I mean, like, like we're like,
+
+54
+00:05:57.090 --> 00:06:01.080
+bstark: I like i get i don't get paid that much. No one here gets paid that much.
+
+55
+00:06:02.520 --> 00:06:05.730
+bstark: And i i i mean i think i remember like
+
+56
+00:06:10.440 --> 00:06:16.800
+bstark: I think you have like a nonprofit discount by remember being like less generous than other other ones were
+
+57
+00:06:18.600 --> 00:06:24.150
+bstark: Think that's right i could be wrong. I haven't again nothing I've done nothing systematic so far.
+
+58
+00:06:26.310 --> 00:06:27.900
+bstark: Yeah, um,
+
+59
+00:06:27.990 --> 00:06:34.440
+Mike Melton: When you went and when you started looking at other e signature solutions. How did you research those
+
+60
+00:06:37.980 --> 00:06:38.550
+bstark: Um,
+
+61
+00:06:40.380 --> 00:06:40.920
+bstark: I don't
+
+62
+00:06:44.100 --> 00:06:55.290
+bstark: I think you know I'm trying to figure out ways that are like things that are like integrated. So I think I was using seeing which options were in an integrated integrated able through
+
+63
+00:06:57.690 --> 00:07:03.660
+bstark: Integra Matt, I think it's what's called or like zap like to Zapier competitor and then
+
+64
+00:07:05.550 --> 00:07:14.100
+bstark: High also, I think, was just using. I think if you like Google like DocuSign competitors like a whole list pops up.
+
+65
+00:07:14.580 --> 00:07:15.480
+Mike Melton: Is that what you did.
+
+66
+00:07:15.780 --> 00:07:17.250
+bstark: Yeah, I'm pretty sure I did that. Yeah.
+
+67
+00:07:17.730 --> 00:07:18.180
+Okay.
+
+68
+00:07:19.290 --> 00:07:19.530
+Mike Melton: What
+
+69
+00:07:19.590 --> 00:07:26.880
+Mike Melton: What did you, what was your criteria for then going through those competitors that popped up when you did the Google search.
+
+70
+00:07:28.770 --> 00:07:31.800
+bstark: Okay, I'm looking for free options first and then
+
+71
+00:07:36.600 --> 00:07:41.040
+bstark: And then I was looking for options that allowed me to quickly.
+
+72
+00:07:43.800 --> 00:07:54.600
+bstark: The more like data, I can look at the more. Yeah, the easier that it is to see not just not just to get signing, but also integrate it with like
+
+73
+00:07:55.740 --> 00:08:02.640
+bstark: Like getting data on what we're actually doing the better for me, like, like if I can actually see
+
+74
+00:08:06.810 --> 00:08:10.650
+bstark: I don't know if it's explaining as well. But basically like
+
+75
+00:08:12.420 --> 00:08:13.890
+bstark: If there's a way that I can.
+
+76
+00:08:15.480 --> 00:08:16.140
+bstark: Include
+
+77
+00:08:17.670 --> 00:08:33.570
+bstark: I don't wanna. I don't if I do, I don't want like a signature software I want like a like form building software that also consigned things at the end of it, and then also export it to excel and then also export it to
+
+78
+00:08:34.620 --> 00:08:39.300
+bstark: Like a PDF and kind of do multiple things at once.
+
+79
+00:08:41.100 --> 00:08:45.030
+bstark: That's like my ideal world. My Nonprofit it's nowhere near that ideal world,
+
+80
+00:08:46.350 --> 00:09:01.650
+Mike Melton: So let me, let me ask you a little bit about the form creation. So you want to, is it. Do you want to create your own documents, rather than like say uploading a PDF into the into the signature solution and
+
+81
+00:09:01.890 --> 00:09:06.180
+bstark: What I would ideally want to do is, so we have like a bunch of like
+
+82
+00:09:07.350 --> 00:09:15.030
+bstark: Form our practice is like very form heavy there's like some practice a lot of practices involved in like low
+
+83
+00:09:15.900 --> 00:09:24.750
+bstark: Wage low income people are fairly form happy so like if you're doing so security disability work there's like seven forms, you have to fill out.
+
+84
+00:09:25.110 --> 00:09:36.210
+bstark: Right at the beginning of the process. And it's similar in California for wages. So we have admitted administrative process. The other example I can think of is like immigration. So, but we
+
+85
+00:09:36.900 --> 00:09:49.200
+bstark: We in California, not in most states have an administrative process to adjudicate people losing wages and to start that process you fill out a form that's like like that looks like a
+
+86
+00:09:50.550 --> 00:09:57.450
+bstark: Like a W two or not WW for w nine or nine nine or any of those like government forms and
+
+87
+00:09:59.340 --> 00:10:01.950
+bstark: Right now, I think a lot of the times, we'd like.
+
+88
+00:10:03.090 --> 00:10:18.810
+bstark: We fill them out directly in the PDF and print it out and sign it. And what I would really like is like a software that you like. You don't ever touched up forms like you like you fill out all the information you need.
+
+89
+00:10:19.860 --> 00:10:21.240
+bstark: You on a
+
+90
+00:10:22.290 --> 00:10:23.190
+bstark: web form.
+
+91
+00:10:24.690 --> 00:10:29.550
+bstark: That has like conditional whatever and then
+
+92
+00:10:31.200 --> 00:10:31.980
+bstark: And you
+
+93
+00:10:33.420 --> 00:10:43.440
+bstark: At the end of that process you sign the person then or the person that gets to review it somehow then signs, then it gets sent off to
+
+94
+00:10:45.300 --> 00:10:59.460
+bstark: That then we can set set it off for filing and all that information we've just put on that form is also in our system in us in some system some database Salesforce or just Excel so that we can like not like
+
+95
+00:11:03.090 --> 00:11:12.030
+bstark: I mean, so I don't have to type up the same ship like 1000 times and the reality is it's not one form. You know, there's one form to file action. There's another form to get
+
+96
+00:11:12.570 --> 00:11:25.590
+bstark: Documents employer. There's another form to issue a subpoena and like 90% of that stuff on all these forms of the same or at least 25% of stuff is the same. So that's like my like dreamworld okay
+
+97
+00:11:26.010 --> 00:11:34.410
+Mike Melton: And so just to echo back what you're saying you would like to be able to have these, you have a grind of somewhat complex forms.
+
+98
+00:11:34.980 --> 00:11:43.920
+Mike Melton: That you would like to be able to have people fill out complete sign and then you want to be able to pull the data out of those forums and be able to process I'm outside before
+
+99
+00:11:45.420 --> 00:11:49.830
+bstark: Yeah, so like, yeah, and some of the data like we'd want to get data that
+
+100
+00:11:51.180 --> 00:11:53.820
+bstark: Like I'd want to get data that
+
+101
+00:11:56.100 --> 00:12:11.700
+bstark: That isn't necessarily, you know, data that goes to say if you have five three forms that you need to fill out some data would go in all the forms some data would go on some forums and then some data would probably go none of those forms, but it's still relevant to us like
+
+102
+00:12:13.560 --> 00:12:21.900
+bstark: Demographic stuff because, you know, we're a grant driven business. And so if we can, like, say, we've helped like
+
+103
+00:12:23.790 --> 00:12:37.380
+bstark: 75 veterans and you know our client base is largely like people of color or whatever. I don't I don't actually know. Are you know we most of our client base like makes
+
+104
+00:12:38.640 --> 00:12:43.110
+bstark: Is on is on CalFresh or which is our version of SNAP benefits.
+
+105
+00:12:44.430 --> 00:12:47.580
+bstark: Those are things that, like, potentially assist us and
+
+106
+00:12:48.780 --> 00:12:51.420
+bstark: Helping her getting getting money.
+
+107
+00:12:54.120 --> 00:12:54.330
+Yeah.
+
+108
+00:12:55.350 --> 00:13:05.070
+bstark: Sorry I again. I feel like this is like kind of performance art because I feel like you guys are probably I'm not your business. I'm not like I'm not who you probably want to help.
+
+109
+00:13:06.300 --> 00:13:09.030
+Mike Melton: No, actually, you know, we do have solutions.
+
+110
+00:13:10.290 --> 00:13:15.750
+Mike Melton: With different types of problems that you're describing, and we're, you know that we're tackling
+
+111
+00:13:16.950 --> 00:13:27.630
+Mike Melton: What I really wanted to really understand in this session is about what your decision making processes are and and people different people have different ways of
+
+112
+00:13:28.140 --> 00:13:35.250
+Mike Melton: analyzing their business needs and their and the solutions. And so I'm really interested in understanding how and how you personally do it.
+
+113
+00:13:36.090 --> 00:13:43.290
+bstark: Yeah, I mean, for me it's, yeah. For me, I've been like it's largely like seeing how
+
+114
+00:13:45.330 --> 00:13:48.660
+bstark: About this is something that's not just about profits but I'm trying to like
+
+115
+00:13:49.890 --> 00:13:57.300
+bstark: I don't have that much like tech support. And so the more I can like integrate more I can get to the an end goal.
+
+116
+00:13:57.720 --> 00:14:11.250
+bstark: With, like the least amount of products and the least amount of like programming on my part. I'm like, I'd say 90. I'm like, like the 98th percentile of like nonprofit lawyers in terms of like tech savvy and it's still like
+
+117
+00:14:12.840 --> 00:14:19.320
+bstark: complicated for me to understand to to actually build something that works for us.
+
+118
+00:14:20.520 --> 00:14:20.880
+bstark: Oh,
+
+119
+00:14:22.740 --> 00:14:25.740
+bstark: Big thing. I mean, obviously a big thing for me is like,
+
+120
+00:14:26.880 --> 00:14:33.750
+bstark: Like the solution. I'm looking for are either like I'm looking at. I'm trying to find a solution that's like the simplest and like just kind of like
+
+121
+00:14:34.110 --> 00:14:45.690
+bstark: It does one thing and it does one thing really well, or I'm looking for a solution that can provide me all of it and then like the solutions in between are kind of annoying because like i don't want like
+
+122
+00:14:48.120 --> 00:14:56.880
+bstark: I don't know, I just want like it's not helpless usually like an in between solutions, just not that helpful like I'd rather just have a dot either I'd have some I want something that's just like
+
+123
+00:14:57.960 --> 00:15:03.390
+bstark: Literally just like puts a signature on the document or I want something that like can do it all.
+
+124
+00:15:05.700 --> 00:15:05.970
+bstark: Yeah.
+
+125
+00:15:07.050 --> 00:15:14.370
+Mike Melton: And what sort of label would you put on your on your DocuSign experience so far is it in between is it does one thing well
+
+126
+00:15:14.940 --> 00:15:25.560
+bstark: I mean, yeah, it was, it was like pretty convenient to sign. I mean, and pretty convenient to set up. I think that like the thing that was the most annoying for me when I was doing it is that
+
+127
+00:15:26.610 --> 00:15:32.640
+bstark: The I found it difficult to deal with figuring out how to
+
+128
+00:15:34.440 --> 00:15:37.590
+bstark: Deal with the situation where I want to send a document out
+
+129
+00:15:39.690 --> 00:15:51.120
+bstark: I found difficult to have someone who want to sign on paper integrate into the experience, which is just like the reality is that, like with my clients, I will almost always
+
+130
+00:15:51.750 --> 00:15:58.650
+bstark: Want them or not want them, but they want they want to sign on paper and and so that's like a issue for me.
+
+131
+00:15:59.250 --> 00:16:12.180
+bstark: And then the other thing is, like, I found iterations be quite difficult. Like, you know, I had a the first document I did like I sent over the document to the employer and I was like here sign this like
+
+132
+00:16:13.290 --> 00:16:14.460
+bstark: And they were like,
+
+133
+00:16:15.660 --> 00:16:30.090
+bstark: Oh, we can't abide by that pay schedule. Like, like, like we're okay with the final amount, but I can't pay you $10,000 in three weeks, I need a month and a half turns out they probably do that like three months. And just like
+
+134
+00:16:31.110 --> 00:16:36.480
+bstark: Our total assholes. And, and I don't know how to run a business. But yeah, they like
+
+135
+00:16:37.560 --> 00:16:42.840
+bstark: So I had to then I revised the document at the new one out. But I didn't realize that like
+
+136
+00:16:44.130 --> 00:16:59.820
+bstark: What would be I just had a new document I didn't. And I don't know if there's a way to just like like like revised agreement, because what happened was annoying was that so I sent a new agreement out and then like seven days later, an automatic email being like
+
+137
+00:17:00.840 --> 00:17:11.430
+bstark: This agreement has been canceled. Like when set out and like the employer freaked out and I freaked out. And I was like, What the fuck just happened. And yeah, that was like the first one that never
+
+138
+00:17:13.920 --> 00:17:17.310
+bstark: Just, just a noxious and unnecessary. Yeah.
+
+139
+00:17:17.970 --> 00:17:27.240
+Mike Melton: Yeah, I hear this a lot about people wanting to change the underlying document or having to edit the document and struggling with that so
+
+140
+00:17:27.450 --> 00:17:27.840
+Yeah.
+
+141
+00:17:30.540 --> 00:17:35.460
+bstark: Yeah, cuz like the people don't want to, like, how to set everything up again and people also don't want to like
+
+142
+00:17:38.010 --> 00:17:49.890
+bstark: It's also just like the way that negotiation to work is like you kind of always want a person a document to be signed. You don't want to be like, does this look good to you. If it does, like, I'll send you want to sign you want to be like
+
+143
+00:17:50.430 --> 00:17:59.310
+bstark: Like, here's the agree that like sign it and then they're like, actually, like, no, I need to survive. So you always like at least
+
+144
+00:18:00.390 --> 00:18:08.880
+bstark: My I'm like still pretty new at this, but like I always want to like present something to be signed. Like, I don't want to present something to be like hashed out and then
+
+145
+00:18:09.570 --> 00:18:19.470
+bstark: Like, like, because basically you don't want to like even just asking the opposing side like Oh, does this look good to you, like, like, I don't want to be like
+
+146
+00:18:21.480 --> 00:18:26.310
+bstark: That's like not really want like posture. You want to present to the other side. You always want to be like
+
+147
+00:18:26.790 --> 00:18:39.090
+bstark: Here's like here's an agreement. Like, I think it's fair. Please sign it and if they they want to come back. You know, I'm not like coercing them and deciding it, but I also don't want to like suggest, I never want to like
+
+148
+00:18:40.830 --> 00:18:50.190
+bstark: Suggest that like I'm ready for like some more discussions about like what the terms are in agreement. And again, I imagine that's like a somewhat like universal like
+
+149
+00:18:52.560 --> 00:18:55.410
+bstark: Non nonprofit issue. Let's just like
+
+150
+00:18:56.550 --> 00:18:56.880
+bstark: Yeah.
+
+151
+00:18:58.320 --> 00:19:00.540
+bstark: lawyers, lawyers, generally, I guess.
+
+152
+00:19:02.550 --> 00:19:08.130
+Mike Melton: Okay, so now we've kind of gotten a discussion about a little, a little bit into the your trial experience.
+
+153
+00:19:09.870 --> 00:19:16.470
+Mike Melton: And I'd say, what were some of the features that you might wonder, what were some of the things you liked about your trial experience.
+
+154
+00:19:17.730 --> 00:19:23.160
+bstark: Yeah, I mean, I don't know. I thought it was simple to relatively simple to use, just to send that document out
+
+155
+00:19:25.590 --> 00:19:30.600
+bstark: And I like the date function like that. I like
+
+156
+00:19:31.680 --> 00:19:35.730
+bstark: You know, I kind of like that a guide you through the
+
+157
+00:19:36.990 --> 00:19:41.520
+bstark: From signature to signatures signature signature, although that like
+
+158
+00:19:43.620 --> 00:19:55.260
+bstark: As a lawyer kind of terrifies me a little bit because like, you know, the point of signing a document is that you read a document and sign it and sometimes donkeys times like so efficient that you like.
+
+159
+00:19:57.480 --> 00:20:02.130
+bstark: Like yeah like I don't know when i was like reading all those. This is kind of from my
+
+160
+00:20:03.720 --> 00:20:06.990
+bstark: I'm not totally answering your question. So I apologize, but you
+
+161
+00:20:07.320 --> 00:20:07.680
+bstark: Know,
+
+162
+00:20:08.160 --> 00:20:16.920
+Mike Melton: You're more talking about your, your clients or the other for the businesses signer signing experience rather than your hero says this is correct.
+
+163
+00:20:17.490 --> 00:20:23.100
+bstark: Yeah, but that matters. For me, it's like the trial, like I want I want like I want to serve us. It's like
+
+164
+00:20:26.250 --> 00:20:26.730
+bstark: I don't
+
+165
+00:20:29.070 --> 00:20:39.270
+bstark: One of the difficulties with using e signature services is there. The purpose is to like quickly sign everything and like what I one of the one of the downsides of that for me when I
+
+166
+00:20:40.200 --> 00:20:49.680
+bstark: Using the product is like, I want to, like, I want to make sure that people understand what they're signing and that like it's not actually helpful for me.
+
+167
+00:20:50.730 --> 00:20:57.240
+bstark: Or it's less helpful for me if they don't have people are just signing things willy nilly, and have no idea what they're signing right
+
+168
+00:20:58.260 --> 00:20:58.920
+bstark: And
+
+169
+00:21:03.120 --> 00:21:14.760
+bstark: And I but like I yeah so I don't really know what the trial, the trial experience for me is like setting up the document everything was fine. I don't have, like, I don't really have much to say about that. I mean, I don't really remember that much but it took me like
+
+170
+00:21:17.430 --> 00:21:17.940
+bstark: Everything.
+
+171
+00:21:18.960 --> 00:21:22.320
+bstark: Everything was quick enough. I mean, though the things that
+
+172
+00:21:24.930 --> 00:21:32.730
+bstark: Yeah, so I guess what I'm saying more is that like the downside. One of the downsides, for me, was signature software is when you can't
+
+173
+00:21:33.780 --> 00:21:34.170
+bstark: Like
+
+174
+00:21:35.460 --> 00:21:45.960
+bstark: That when you're signing with some signing something with someone in person, you can like point out like this is the key term, I want to make sure that you understand, like, let's talk about that quickly.
+
+175
+00:21:47.250 --> 00:21:55.620
+bstark: And there's less room for that with the signature software. I mean like even, like, I don't know, you have to the product designers, but like
+
+176
+00:21:56.460 --> 00:22:11.670
+bstark: Being able to when you're clicking, maybe you can just understand how to do this but like when you're when if there's a way to like design the click through experience there. And so just jumping from signature signature. It can jump from like
+
+177
+00:22:12.750 --> 00:22:18.660
+bstark: section to section or like even like you click Next. And it takes you to like, you know,
+
+178
+00:22:19.830 --> 00:22:29.550
+bstark: A key section of the agreement, like, like, you know, scheduled payments, like I want I want everyone to look at the schedule of payments before they sign it.
+
+179
+00:22:30.780 --> 00:22:40.590
+bstark: And I feel like it would be more helpful for me to be able to control that a little bit more. And I think that's, I think, I guess the other thing I've known from some other software.
+
+180
+00:22:41.460 --> 00:22:49.200
+bstark: That was one thing, another way to do that, that I couldn't. I DIDN'T FIGURE OUT HOW TO DO WITH DocuSign was like
+
+181
+00:22:50.370 --> 00:22:51.330
+bstark: When you're sending the
+
+182
+00:22:52.650 --> 00:22:57.990
+bstark: When you're sending out requests to people, though, like way that you
+
+183
+00:22:59.160 --> 00:23:03.480
+bstark: Can send that request with some of these some software. Seems like you can highlight
+
+184
+00:23:04.860 --> 00:23:11.190
+bstark: I mean, I get the, I don't really remember with the doctor, maybe you can just write it in the email. I want to make sure that you like, look at this key point, but
+
+185
+00:23:14.490 --> 00:23:15.510
+bstark: If you're using a
+
+186
+00:23:16.530 --> 00:23:17.790
+bstark: If you're using a like
+
+187
+00:23:20.670 --> 00:23:35.820
+bstark: I guess I'm thinking about, like, hello works or whatever, which is one of the one part of Hello sign like but that software you can like you can basically like in the signing process like include the disclosures.
+
+188
+00:23:37.020 --> 00:23:42.330
+bstark: And kind of notes for the person signing it, which would be which are something that
+
+189
+00:23:43.710 --> 00:23:47.940
+bstark: Would be helpful. Don't touch any of your questions. I apologize.
+
+190
+00:23:48.000 --> 00:23:49.080
+Mike Melton: Or. Thank you.
+
+191
+00:23:56.940 --> 00:24:05.430
+Mike Melton: And say, okay, so we already talked about what you liked about the trial experience and and the things that you didn't like about your trial experience.
+
+192
+00:24:06.630 --> 00:24:13.470
+Mike Melton: I was wondering if you could tell me a little bit more about how you consider docu science pipe paid plans. Do you remember which ones you consider
+
+193
+00:24:17.100 --> 00:24:21.630
+bstark: Now, I mean I would be looking at, like, I would probably be looking at the cheat. This one.
+
+194
+00:24:23.250 --> 00:24:28.620
+bstark: That I was looking at the nonprofit pricing, I can pull, I can pull them up. I don't totally
+
+195
+00:24:29.460 --> 00:24:32.790
+Mike Melton: Um, which would you mind sharing your screen.
+
+196
+00:24:33.060 --> 00:24:33.420
+Mike Melton: And then we
+
+197
+00:24:34.020 --> 00:24:38.160
+Mike Melton: Will and showing me how you found the plans and Pricing Page.
+
+198
+00:24:52.350 --> 00:24:53.100
+bstark: So,
+
+199
+00:24:55.260 --> 00:25:00.390
+bstark: Yeah, I think I just like, I mean I pretty sure I just like Google Doc, you sign like
+
+200
+00:25:05.070 --> 00:25:05.280
+bstark: Yeah.
+
+201
+00:25:07.950 --> 00:25:08.850
+bstark: And then
+
+202
+00:25:10.440 --> 00:25:11.610
+bstark: If it will ever load.
+
+203
+00:25:39.540 --> 00:25:42.210
+bstark: Yeah, so I don't. I mean, I guess.
+
+204
+00:25:45.090 --> 00:25:48.150
+bstark: Yeah, I don't know. I think I was looking at the, you know,
+
+205
+00:25:50.280 --> 00:25:54.510
+bstark: I don't know. I just don't think that like my org wouldn't like be willing to pay.
+
+206
+00:25:56.550 --> 00:26:04.200
+bstark: I think I kind of like, shut it out pretty quickly, because if it's just a single user only for seven bucks. I'm pretty sure
+
+207
+00:26:05.220 --> 00:26:05.850
+bstark: Like
+
+208
+00:26:12.000 --> 00:26:21.360
+bstark: I guess what happens. I like talk to my CTO guy and he was like, we use Adobe sign in the past. And so I looked at
+
+209
+00:26:23.730 --> 00:26:34.740
+bstark: I looked at. I like looked at Adobe sign and then I that can trigger me to actually look at all the prices for various things. I think that I ended up just like quickly comparing
+
+210
+00:26:36.480 --> 00:26:43.830
+bstark: I think that, basically, I noticed that like sign request allows you to do like a bunch of shit for free and then
+
+211
+00:26:47.970 --> 00:26:52.740
+bstark: And I basically because there's a few
+
+212
+00:26:54.840 --> 00:26:55.440
+bstark: Like
+
+213
+00:26:57.150 --> 00:27:00.510
+bstark: Sorry, I mean, again, not sure what it
+
+214
+00:27:00.810 --> 00:27:02.700
+Mike Melton: Is exactly what we want to know.
+
+215
+00:27:02.940 --> 00:27:12.990
+bstark: Okay, so, yeah. So basically, I was just kind of like, because I think what I mean by like temporary conclusion, at least for now and why I kind of was like, Okay, I'm just gonna put this on hold.
+
+216
+00:27:13.350 --> 00:27:30.900
+bstark: And there's basically a oh okay like sign request does like the basic ship for free. Like, and I think that small PDF also does like the basic shit for free. Although I remember the small I tried one document with small PDF and it was like very like
+
+217
+00:27:32.730 --> 00:27:38.850
+bstark: I mean, just like the it was very like low tech. So I kind of didn't love that. But this, this one was like
+
+218
+00:27:39.930 --> 00:27:46.530
+Mike Melton: I think that there was a link down below for to show their plans. Would you mind going down and clicking on
+
+219
+00:27:47.790 --> 00:27:48.900
+Mike Melton: Yeah, no.
+
+220
+00:27:48.960 --> 00:28:00.840
+bstark: Yeah, right here, like I'm I'm doing 10 documents, a month. Like, like, Yeah, I saw that that's what happened. I saw this and I was like, oh, okay, cool, like
+
+221
+00:28:00.930 --> 00:28:02.820
+Mike Melton: Looks good sign request.
+
+222
+00:28:03.450 --> 00:28:13.350
+bstark: I i know i don't i don't remember. I can, I need to stop sharing to check on my Gmail. I don't really feel like sharing on my
+
+223
+00:28:13.680 --> 00:28:15.360
+Mike Melton: Own that's perfectly okay
+
+224
+00:28:15.600 --> 00:28:15.900
+Yes.
+
+225
+00:28:18.660 --> 00:28:20.400
+bstark: I haven't so like I don't
+
+226
+00:28:21.900 --> 00:28:23.550
+bstark: Yeah I did try
+
+227
+00:28:26.730 --> 00:28:31.740
+bstark: Yeah, I made my I made a test. Oh no, I did use it. Yeah. And it was fun. Yeah.
+
+228
+00:28:33.600 --> 00:28:41.700
+Mike Melton: So there's usability and your satisfaction with the product and it compares favorably with with DocuSign
+
+229
+00:28:43.290 --> 00:28:49.740
+bstark: Yeah, it's like first simple signing it was fine. I think that there is a problem with like
+
+230
+00:28:50.910 --> 00:28:55.140
+bstark: I think that there is, I'm sorry, I'm just looking at a legal services agreement.
+
+231
+00:28:58.020 --> 00:29:12.990
+bstark: And so I don't want to share that with you. But yeah, I remember now I'm looking at this. Yeah, I remember their, their software was like not very conducive to to like initials like but
+
+232
+00:29:15.240 --> 00:29:25.920
+bstark: And who knows, like my nonprofit is like we have a lot of money. So maybe at some point we will get something that's slightly easier for like 100 bucks a year or whatever but
+
+233
+00:29:27.390 --> 00:29:29.700
+bstark: Especially if it's just like one
+
+234
+00:29:31.590 --> 00:29:46.410
+bstark: I guess I didn't totally understand what like one user men. But anyway, yeah. Sorry for for first I request, there's a problem where it's not are not problem. But basically we have we have agreements that require initials and signatures and
+
+235
+00:29:48.390 --> 00:30:06.990
+bstark: It wasn't super easy to add initials on their service. But like, there's nothing magic to the initial or a signal that like someone puts a signature where there should be an initial. It's not a problem. So I just did that and
+
+236
+00:30:08.790 --> 00:30:12.060
+bstark: It was, I remember taking it being very quick so
+
+237
+00:30:13.530 --> 00:30:20.640
+bstark: And I was just getting us. Yeah, that was just getting a signature from one person for that one. Yeah.
+
+238
+00:30:23.730 --> 00:30:24.030
+Yeah.
+
+239
+00:30:25.800 --> 00:30:33.780
+bstark: But I mean, I think I had to do a decent amount of I was kind of explore, I think I only came across them because I was trying to explore way to like integrate
+
+240
+00:30:36.000 --> 00:30:37.590
+bstark: Integrate forms with
+
+241
+00:30:39.630 --> 00:30:40.110
+bstark: Like
+
+242
+00:30:43.470 --> 00:30:57.780
+bstark: The whole thing I was describing earlier about like form to like web form to sign a document seamlessly and I just was looking at more options. I still haven't really figured out like a great option there.
+
+243
+00:31:00.990 --> 00:31:08.130
+bstark: So I feel like I probably would like I've never figured it out. If I had, like, I don't know.
+
+244
+00:31:09.510 --> 00:31:14.700
+bstark: They go, I'm trying to just tell you it's like DocuSign has the like incumbent advantage or something.
+
+245
+00:31:15.150 --> 00:31:23.370
+bstark: Which I'm sure you know, just like people are like, oh, I need a signature solution. I was last, like, or I don't think anyone uses the
+
+246
+00:31:23.970 --> 00:31:35.490
+bstark: Like e signature solution term but like if I need to sign something online like my my thing, my God, it's like what the first the first place place people think is the time
+
+247
+00:31:37.680 --> 00:31:42.180
+Mike Melton: Um, do you mind if we go back to the DocuSign plans and Pricing Page.
+
+248
+00:31:42.480 --> 00:31:43.890
+bstark: Yes, and there
+
+249
+00:31:45.390 --> 00:31:47.130
+bstark: Are five me to share. I can share again.
+
+250
+00:31:52.920 --> 00:31:54.060
+Mike Melton: I think that, there you go.
+
+251
+00:31:56.970 --> 00:31:58.920
+Mike Melton: And can you tell me a little bit about
+
+252
+00:32:01.830 --> 00:32:09.750
+Mike Melton: About the features if there any of these features that you felt that would possibly justify the cost. You said
+
+253
+00:32:09.780 --> 00:32:10.980
+Mike Melton: Previously you were like,
+
+254
+00:32:11.250 --> 00:32:14.070
+Mike Melton: Really pretty much focused on on the cost
+
+255
+00:32:15.270 --> 00:32:34.140
+bstark: Yeah, I mean, that's a pretty annoyed by i think i mean are just now looking at. I'm like, super annoyed. Like it's five a month. Like why would I pay $1 a signature, like, especially when it's like, I don't know. You know, it's not costing you guys any additional money to
+
+256
+00:32:39.240 --> 00:32:45.390
+bstark: Yeah, that was like kind of the our super annoying and something that made me like
+
+257
+00:32:47.490 --> 00:33:00.930
+bstark: Yeah, I mean the integration is obviously the thing that carrier that are is the thing that i i thought would be helpful and Branding. Branding is also helpful a slightly
+
+258
+00:33:07.110 --> 00:33:10.260
+bstark: Yeah, and in person. I guess in person signatures, but I'm not
+
+259
+00:33:15.060 --> 00:33:15.600
+bstark: The
+
+260
+00:33:16.770 --> 00:33:17.850
+bstark: Yeah, those are
+
+261
+00:33:20.010 --> 00:33:22.470
+bstark: There's a three things that I think I mean
+
+262
+00:33:24.690 --> 00:33:26.310
+bstark: Yeah, those are the
+
+263
+00:33:28.320 --> 00:33:30.510
+bstark: I guess those are the three things. I don't know.
+
+264
+00:33:31.680 --> 00:33:36.570
+bstark: Yet obviously helps to have like reusable templates to first some documents.
+
+265
+00:33:37.800 --> 00:33:38.220
+bstark: And what is
+
+266
+00:33:38.640 --> 00:33:40.350
+Mike Melton: Reasonable template means to you.
+
+267
+00:33:40.680 --> 00:33:48.720
+bstark: Haha That's funny. Yeah. So what would that mean to me would be able to for like a legal services agreement would be like a
+
+268
+00:33:49.470 --> 00:34:08.940
+bstark: PDF filled out that PDF that like has that it has all the little boxes that you put in pre pre boxed in and usually input the person's name and they know where to go and an email and they know where to DocuSign, will I won't have to reassign various four boxes to form.
+
+269
+00:34:09.930 --> 00:34:17.490
+Mike Melton: And so what is the difference in your mind between that and a web form that someone fills out
+
+270
+00:34:20.790 --> 00:34:44.040
+bstark: Okay. Yeah, so a web. What I'm talking about a web form, I would mean something that doesn't look like a document. So I would mean like a Google form or a job forum or something that like has the like asked a bunch of basic questions and the person doesn't necessarily like for the
+
+271
+00:34:46.440 --> 00:34:54.150
+bstark: For a good chunk of the time the person doesn't necessarily know where they're what they're going to be. What's hap like
+
+272
+00:34:56.970 --> 00:35:06.300
+bstark: A form that the form isn't isn't a distant itself a document, I guess. I mean, obviously, it could turn into document, but the form is more about it like an intake.
+
+273
+00:35:07.470 --> 00:35:21.930
+bstark: Like mechanism and then it would spit out multiple documents at the end, you could sign, I guess. Where is what I think of a recent template. I'm thinking about a specific document with or built for the doctor.
+
+274
+00:35:22.770 --> 00:35:35.760
+Mike Melton: So would this be something where I would go in and fill out certain information and then it would generate forums and then wherever that information that's replicated in those forums, it would automatically fill them in and
+
+275
+00:35:36.360 --> 00:35:42.720
+Mike Melton: And then I mean those sports would be like maybe like some kind of standard legal forms that you use, and
+
+276
+00:35:43.890 --> 00:35:49.800
+Mike Melton: The web form is just something that you fill in that would contain all the information that's required for these other forums.
+
+277
+00:35:49.860 --> 00:35:58.710
+bstark: Yeah, so like if yeah so like if we're starting off if a client comes in to us and you know where we give them this web form and it has their name, their address their
+
+278
+00:35:59.190 --> 00:36:12.750
+bstark: Phone number their email when they started working for their employer when they kind of working for an employer, the employers name and when that basic information that all pre populate a
+
+279
+00:36:13.920 --> 00:36:17.490
+bstark: Legal Service agreement that they could then
+
+280
+00:36:18.510 --> 00:36:24.150
+bstark: Potentially sign, depending on if we want them to sign it or offer to them.
+
+281
+00:36:25.290 --> 00:36:35.400
+bstark: A letter to the employers saying please give us your employees records and like, depending on if they check off the box saying like
+
+282
+00:36:36.510 --> 00:36:42.510
+bstark: I was fired because I complained about my wages and you fill out a form for retaliation complain
+
+283
+00:36:43.080 --> 00:36:55.260
+bstark: If they're like I wasn't paying the minimum wage and you fill out a form that would get a wage claim for them. So basically like it both be there be some forms, I would probably automatically generate
+
+284
+00:36:56.460 --> 00:36:57.930
+bstark: And then some forms that would
+
+285
+00:37:00.690 --> 00:37:05.070
+bstark: require us to touch like a lawyer to touch before
+
+286
+00:37:07.290 --> 00:37:10.140
+bstark: Before the client signed and then some
+
+287
+00:37:11.850 --> 00:37:17.940
+bstark: I mean, I guess it's like a, I don't know, maybe the topic for this is a workflow. I have no idea, but yeah.
+
+288
+00:37:19.860 --> 00:37:21.750
+Mike Melton: Okay, it's really interesting.
+
+289
+00:37:22.860 --> 00:37:38.880
+Mike Melton: Then we do have some, some researchers who are are working on those types of areas. If you might be interested in participating in research in the future for those teams, just let me know and I can put you in touch with them or them in touch with you.
+
+290
+00:37:39.300 --> 00:37:43.050
+bstark: Yeah, okay. I mean, I'd be, I guess.
+
+291
+00:37:44.160 --> 00:37:48.090
+bstark: Yeah, happy to be here. Yeah, I don't. Yeah.
+
+292
+00:37:49.590 --> 00:37:51.180
+Mike Melton: When you did you
+
+293
+00:37:52.710 --> 00:37:54.960
+Mike Melton: Did you go through and look at any of these
+
+294
+00:37:56.730 --> 00:37:58.980
+Mike Melton: I mean after you looked at the prices and
+
+295
+00:38:00.450 --> 00:38:08.820
+Mike Melton: Did you go through and actually considering these features or look through them, or can look at the differences in these in these plants.
+
+296
+00:38:10.050 --> 00:38:17.760
+bstark: I really don't remember the thing I do remember looking at is this. I remember looking at the cheapest one and seeing the five five.
+
+297
+00:38:18.540 --> 00:38:32.700
+bstark: Documents, a month thing and then comparing it to 10 documents for free and thinking to myself, like right now. Me personally, I'm not an ideal world, I'd be like signing like tons of things like
+
+298
+00:38:33.960 --> 00:38:45.330
+bstark: On a regular basis. But right now, like I'm the most of our signatures are still in paper and I'm really just using this for like certain employers and I was both like
+
+299
+00:38:46.800 --> 00:38:53.130
+bstark: I was like, Oh, I can get 10 for free. Also like five is like such like kind of them noxious number because like
+
+300
+00:38:54.180 --> 00:39:11.280
+bstark: Like it's just too few that you're basically always thinking about like how many if I signed this month in like, which I guess it's probably the point to upsell you to like 17 pointless 17.5 plan or whatever. But like, it's like
+
+301
+00:39:12.420 --> 00:39:24.600
+bstark: I don't know, like I feel like it just, it just ignored me just kind of like, okay, like, I can't, I don't, it's not it's not really helpful service to me if I'm constantly thinking
+
+302
+00:39:25.290 --> 00:39:36.600
+bstark: Like how many times have I use the service this month. And how many more times can I use this this month and am I going to like send out a document to employer and then there that I'm going to get an email from DocuSign being like
+
+303
+00:39:37.170 --> 00:39:40.170
+bstark: Actually like this is your sixth document of the month, like
+
+304
+00:39:41.190 --> 00:39:41.640
+bstark: Like
+
+305
+00:39:42.900 --> 00:39:51.240
+bstark: This is a good work. As I was just like a north of the hell out of me and waste my time. So I think that was kind of my immediate
+
+306
+00:39:52.830 --> 00:39:53.910
+bstark: I don't think I
+
+307
+00:39:54.960 --> 00:40:02.550
+bstark: These user this user research, my, my partner is is a UX person. So I have
+
+308
+00:40:03.600 --> 00:40:05.880
+bstark: But I find some of the like a little bit
+
+309
+00:40:06.960 --> 00:40:07.350
+bstark: Like
+
+310
+00:40:09.780 --> 00:40:21.420
+bstark: Faster these questions a little funny because it's like I'm pretty sure I did that Justin everything that I articulated to you and like maybe like one and a half seconds and then just close the window like I wasn't like, you know, I didn't
+
+311
+00:40:22.050 --> 00:40:24.060
+bstark: Have a long conversation with myself about like
+
+312
+00:40:24.660 --> 00:40:25.800
+Mike Melton: No, I get it.
+
+313
+00:40:25.950 --> 00:40:26.550
+Yeah.
+
+314
+00:40:27.870 --> 00:40:35.400
+bstark: But, but I do think that that was like my gut was I saw the five document month thing and I just got like pick up like immediately kind of a boy.
+
+315
+00:40:36.870 --> 00:40:46.050
+bstark: Or at least I don't know if it was the first time I saw it, or when I compared it to the side requests thing or what, but I remember getting like, at some point, getting like annoyed.
+
+316
+00:40:46.770 --> 00:40:49.020
+Mike Melton: Okay. Yeah, good.
+
+317
+00:40:50.880 --> 00:40:55.620
+Mike Melton: So when you, when I say when we say five five a month.
+
+318
+00:40:56.670 --> 00:40:57.390
+Mike Melton: But what would it
+
+319
+00:40:58.740 --> 00:41:09.660
+Mike Melton: If I was sending something and I put five documents inside one DocuSign instance and send it to someone to send those five documents. How many of those do you think would be stopped.
+
+320
+00:41:10.740 --> 00:41:11.640
+bstark: No clue.
+
+321
+00:41:13.530 --> 00:41:18.120
+bstark: I mean, I assume one. I assume that you guys like assume that you're talking about, like,
+
+322
+00:41:19.290 --> 00:41:26.880
+bstark: Send. But I have no clue. And for me, that wasn't really my consideration. It was more like
+
+323
+00:41:30.420 --> 00:41:31.620
+bstark: I was thinking
+
+324
+00:41:33.120 --> 00:41:46.890
+bstark: Oh, well, the way I was thinking as I was thinking about, click, click Send instances, not the number of documents sent per instance, but that only makes it more annoying to make sure that I have you bring that up.
+
+325
+00:41:53.190 --> 00:41:58.740
+Mike Melton: So did you did you look at this plan line up before you signed up for the trial.
+
+326
+00:41:58.980 --> 00:42:03.780
+bstark: No, I just got a free trial I saw that, I mean yeah like
+
+327
+00:42:07.080 --> 00:42:08.310
+bstark: Yeah, free trials or
+
+328
+00:42:10.470 --> 00:42:25.980
+bstark: Yeah, it's a free trial and not only you. I don't think you had to put a credit card down. I don't think I would have put it. So yeah, if you don't put a credit card down. I was just kind of like let me see how helpful. This is that it's not at our use it before. So it's not that
+
+329
+00:42:27.270 --> 00:42:28.440
+bstark: much of a burden for me.
+
+330
+00:42:29.910 --> 00:42:38.160
+Mike Melton: And I'm also about adding adding users. Was there any consideration about having more than one
+
+331
+00:42:39.300 --> 00:42:41.760
+Mike Melton: More than one user or was it always just for you.
+
+332
+00:42:43.980 --> 00:42:46.260
+bstark: I mean, ideally I want something that
+
+333
+00:42:49.680 --> 00:42:57.630
+bstark: I would I put this. No, I mean, yeah, ideally, there's other people in my org the organization is a little bit peculiar
+
+334
+00:42:58.440 --> 00:43:10.710
+bstark: Because some of the organization is very litigation driven and some of the organization very like direct services driven and I'm somewhere in between. But like I was thinking about this more as like a tool for
+
+335
+00:43:11.910 --> 00:43:19.440
+bstark: Like limited cases not like we're going to Federal court and bringing class action on behalf of a ton of workers, but
+
+336
+00:43:21.420 --> 00:43:23.460
+bstark: Yeah, I don't know how we don't know how
+
+337
+00:43:24.720 --> 00:43:26.850
+bstark: The goal would be for multiple people to use it.
+
+338
+00:43:27.900 --> 00:43:31.020
+bstark: For being like very frank since I guess that's the point of this like
+
+339
+00:43:32.340 --> 00:43:41.010
+bstark: I don't know, maybe like we'd like I'm we would we have like an email address for clients to send stuff to that's like docs and maybe we would
+
+340
+00:43:41.880 --> 00:43:49.680
+bstark: Probably violate the terms of shares surface and have like multiple people using one account or like have an assigned to a paralegal
+
+341
+00:43:50.490 --> 00:44:04.140
+bstark: Nominally but have but be able to use it ourselves from the paralegal is busy. That's just my guess. But I'm not the person who makes those decisions. I'm just a staff attorney. It's been here for like four months.
+
+342
+00:44:05.490 --> 00:44:10.140
+Mike Melton: And so for the purchasing thing you would just like make the recommendation to someone else.
+
+343
+00:44:11.280 --> 00:44:23.160
+bstark: Yeah. Yeah. And I actually have to, um, I, I do need to leave. Like, I know I started out by junior leave in like two minutes. Got we have an interview it. Okay.
+
+344
+00:44:24.630 --> 00:44:24.870
+Mike Melton: I'm
+
+345
+00:44:24.900 --> 00:44:30.210
+Mike Melton: Done with my questions. If you had anything else that you wanted to discuss with us.
+
+346
+00:44:30.660 --> 00:44:32.970
+Mike Melton: But I thank you so much for your time.
+
+347
+00:44:33.030 --> 00:44:36.840
+bstark: Chris Yeah, sorry that I hope that was remotely helpfully was
+
+348
+00:44:36.930 --> 00:44:44.250
+Mike Melton: It was super helpful. I mean, always my colleague analyst is going to be emailing you an Amazon gift card as a small token of our
+
+349
+00:44:44.250 --> 00:44:45.750
+bstark: Appreciation. Cool.
+
+350
+00:44:47.010 --> 00:44:48.300
+Thanks. The Phantom
+
+351
+00:44:49.770 --> 00:44:59.970
+Mike Melton: I'll let the other teams. Now we have like some document life cycle and full forms teams. I'll let them know that you'd be open to speaking with them.
+
+352
+00:45:01.620 --> 00:45:02.640
+Mike Melton: Thanks a lot. Appreciate it.
+
+353
+00:45:03.090 --> 00:45:03.960
+bstark: Yeah, thanks.
+
+354
+00:45:05.190 --> 00:45:06.090
+bstark: Cool, but
+
+355
+00:45:06.660 --> 00:45:06.930
+I
+

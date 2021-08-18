@@ -49,16 +49,16 @@ def file():
     app.logger.info(f"/file - Got request: {data}")
     forms = services.get_file(data.get("filename"))  #filename is a dictionary key
     app.logger.info(f"/get_study - Output: {forms}")
-    return jsonify(forms)
+    return jsonify({"transcript": forms})
 
 @app.route("/dialog", methods=["POST"])
 @cross_origin(origin='localhost', headers=['Content-Type', 'Authorization'])
 def dialog():
     data = request.get_json()
     app.logger.info(f"/dialog - Got request: {data}")
-    forms = services.get_dialog(data.get('filedata'))
+    forms = services.get_dialog(data.get('output_filename'))
     app.logger.info(f"/dialog - Output: {forms}")
-    return jsonify(forms)
+    return jsonify({"dialog": forms})
 
 
 if __name__ == "__main__":   #need to be here to run the flask server - starts it - sleeps until it gets a request
