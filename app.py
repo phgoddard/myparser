@@ -58,8 +58,8 @@ def dialog():
     app.logger.info(f"/dialog - Got request: {data}")
     forms = services.get_dialog(data.get('output_filename'))
     app.logger.info(f"/dialog - Output: {forms}")
-    return jsonify({"dialog": forms})
-
+    parsed = [{"line_number":line[0], "Speaker": line[1], "Comment": line[2]} for line in forms]
+    return jsonify(parsed)
 
 if __name__ == "__main__":   #need to be here to run the flask server - starts it - sleeps until it gets a request
     app.run(host='0.0.0.0')

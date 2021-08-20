@@ -3,10 +3,30 @@
 <head>
     <meta charset="UTF-8">
     <title>Transcript Parser</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 </head>
 <body>
-<h1>Transcript Parser</h1>
-<h3>Reads a transcript from remote interviews and extracts the dialog between participants.</h3>
+<div class="container">
+<h2>Transcript Parser</h2>
+<h3 class="form-text">Reads a transcript from remote interviews and extracts the dialog between participants.</h3>
+
+<h3>This project implemented the following use cases:</h3>
+<p>
+1. As a user I can import a transcipt from a customer interview (*.txt) so the application can clean it. I should be able to:
+- input a name for the study
+- store study name to database for future retrieval
+2. As a user I can see an un-processed form of the file contents so I can verify that it has been accurately read in
+- get and store file name
+- store file name for future retrieval
+3. As a user I can clean the dialog text, including:
+- remove unwanted newlines and numbers
+- remove timestamps
+- extract all speaker names in the dialog
+- display cleaned dialog
+4. As a user I can save cleaned text for future retrieval
+- output the cleaner version to a new txt file specified by user
+- save cleaner version to database for future retrieval
+</p>
 
 <div>
 <p>Endpoint: http://localhost:5000/tparse</p>
@@ -44,16 +64,8 @@
 </pre>
 </div>
 
-<h3>Generate words</h3>
-<div>
-<p>Endpoint: http://localhost:5000/generate</p>
-<p>Request type: GET</p>
-<p>Response: </p>
-<pre>
-  {
-    "msg": "success"
-  }
-</pre>
+
+</div>
 </div>
 </body>
 </html>

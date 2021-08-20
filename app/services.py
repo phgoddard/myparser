@@ -24,7 +24,7 @@ class Services():
         d = Dialog(output_filename, self.f.file_id, self.f.all_text)
         d.saveDialog(d.dialogdata_for_sql, output_filename)
         self.repo.save_dialog(d)
-        return d.dialogdata_for_sql
+        return d.dialogdata_for_sql[1:]
 
 class Study():
     #store study name and id for any study that has research associated with it
@@ -43,6 +43,7 @@ class File():
         self.file_name = file_name
         self.study_id = study_id
         self.stuff = ""
+        self.morestuff = ""
         self.all_text = []           #original text is read as lines
         #class methods
         self.WorkingDir = self.changeWorkingDir()
@@ -64,9 +65,9 @@ class File():
         #first data file created: -> all_text
         self.inFile = open(self.file_name,'r')
         self.stuff = self.inFile.read()
-        self.stuff = ''.join(self.stuff)
-        self.stuff = self.stuff.split("'")
-        self.all_text = "\\'".join(self.stuff)
+        self.morestuff = ''.join(self.stuff)
+        self.morestuff = self.morestuff.split("'")
+        self.all_text = "\\'".join(self.morestuff)
         return self.all_text
 
 class Dialog():
@@ -125,7 +126,7 @@ class Dialog():
         print(self.cleanListText)
         self.rownum = 0
         for line in self.cleanListText:
-            print(line)
+            #print(line)
             self.row = []
             if ":" in line:
                 self.smatch = re.search(self.rgSpeaker, line)
@@ -149,7 +150,7 @@ class Dialog():
                     self.row.append(self.speaker[:-1])
                     self.row.append(self.textline)
                     self.dialogdata_for_sql.append(self.row)
-            print(self.row)
+            #print(self.row)
             self.rownum += 1
         return self.dialogdata_for_sql
 

@@ -1,7 +1,6 @@
 from db.repository import *
 import mysql.connector
 
-
 class MysqlRepository(Repository):
 
     def __init__(self):
@@ -17,7 +16,7 @@ class MysqlRepository(Repository):
         self.cursor = self.connection.cursor()
 
     def __del__(self):
-        #self.cursor.close()
+        self.cursor.close()
         self.connection.close()
 
     def checkifstudyexists(self, studyname):
@@ -77,6 +76,6 @@ class MysqlRepository(Repository):
                 )
             sql += row_str
         sql = sql[:-2]
-        print(sql)
+        #print(sql)
         self.cursor.execute(sql)
         self.connection.commit()
